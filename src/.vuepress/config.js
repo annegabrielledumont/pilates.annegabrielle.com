@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Cours de pilates',
   description: 'Anne Gabrielle Dumont',
+  dest: "docs",
   themeConfig: {
     home: true,
     search: false,
