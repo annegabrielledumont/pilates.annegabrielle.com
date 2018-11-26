@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Cours de pilates',
   description: 'Anne Gabrielle Dumont',
-  dest: "docs",
+  dest: 'docs',
   themeConfig: {
     home: true,
     search: false,
@@ -10,7 +10,7 @@ module.exports = {
       // { text: 'Contact et accès', link: '/contact-acces/' },
       // { text: 'Mon approche', link: '/approche/' },
       // { text: 'Bienfaits du pilates', link: '/bienfaits/' },
-      { text: 'annegabrielle.com', link: 'https://annecabrielle.com' }
+      { text: 'annegabrielle.com', link: 'https://annegabrielle.com' }
     ],
     sidebar: [
       '/approche/',
