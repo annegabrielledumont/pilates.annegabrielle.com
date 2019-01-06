@@ -1,0 +1,132 @@
+/*
+    Theme
+-------------------------------
+*/
+
+:root {
+  --header-height: var(--unit-xl);
+}
+
+svg.icon.outbound {
+  display: none;
+}
+
+.navbar {
+  position: fixed;
+  background-color: var(--color-alt);
+  width: 100vw;
+  height: var(--header-height);
+  z-index: 2;
+}
+
+.sidebar {
+  position: fixed;
+  background-color: var(--color-bg);
+  top: var(--header-height);
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding-top: var(--unit);
+}
+
+.sidebar-content {
+  padding-left: var(--container-padding);
+  padding-right: var(--container-padding);
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+a.sidebar-link {
+  line-height: var(--unit-l);
+  display: block;
+}
+
+.sidebar-link.active {
+  font-weight: 700;
+  border-left: var(--unit-xs) solid var(--color-highlight);
+  margin-left: calc(-1 * var(--unit));
+  padding-left: calc(var(--unit) - var(--unit-xs));
+}
+
+.sidebar-sub-header .sidebar-link.active {
+  border-left: initial;
+  margin-left: initial;
+  padding-left: initial;
+}
+
+.page {
+  margin-top: var(--header-height);
+}
+
+.content > h1,
+.content > h2,
+.content > h3,
+.content > h4,
+.content > h5,
+.content > h6 {
+  margin-top: calc(-1 * (var(--header-height)));
+  padding-top: calc((var(--header-height) + var(--unit)));
+}
+
+.content > h1 .header-anchor,
+.content > h2 .header-anchor,
+.content > h3 .header-anchor,
+.content > h4 .header-anchor,
+.content > h5 .header-anchor,
+.content > h6 .header-anchor {
+  margin-left: -0.8em;
+  opacity: 0;
+}
+
+.content > h1:hover .header-anchor,
+.content > h2:hover .header-anchor,
+.content > h3:hover .header-anchor,
+.content > h4:hover .header-anchor,
+.content > h5:hover .header-anchor,
+.content > h6:hover .header-anchor {
+  opacity: 1;
+}
+
+.content a {
+  color: var(--color-brand);
+}
+
+@media (--viewport-mobile) {
+}
+
+@media (--viewport-tablet) {
+  .sidebar-content {
+    width: calc(2 * var(--col-width) + var(--gutter));
+  }
+}
+
+@media (--viewport-desktop) {
+  .desktop-show {
+    display: block;
+    visibility: visible;
+  }
+
+  .desktop-hide {
+    display: none;
+    visibility: hidden;
+  }
+
+  .sidebar {
+    position: sticky;
+    display: initial;
+    visibility: initial;
+    background-color: initial;
+  }
+
+  .sidebar-content {
+    width: initial;
+    padding-left: initial;
+    padding-right: initial;
+    margin-left: initial;
+    margin-right: initial;
+  }
+}
+
+@media (--viewport-large) {
+}
