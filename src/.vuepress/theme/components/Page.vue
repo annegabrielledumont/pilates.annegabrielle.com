@@ -1,78 +1,92 @@
 <template>
-  <div>
-    <Content />
-
-    <div
-      v-if="contentMounted"
-      class="page-edit"
-    >
-      <div
-        v-if="editLink"
-        class="edit-link"
+  <div class="container">
+    <div class="desktop-blobs">
+      <Sidebar
+        class="sidebar desktop-blob-1-4"
+        :items="sidebarItems"
+        :class="{ hide: !sidebarVisible }"
+      />
+      <div 
+        class="page blob-1 desktop-blob-3-4"
       >
-        <a
-          :href="editLink"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {{ editLinkText }}
-        </a>
-        <OutboundLink />
-      </div>
+        <Content />
 
-      <div
-        v-if="lastUpdated"
-        class="last-updated"
-      >
-        <span class="prefix">
-          {{ lastUpdatedText }}:
-        </span>
-        <span class="time">
-          {{ lastUpdated }}
-        </span>
-      </div>
-    </div>
 
-    <div
-      v-if="contentMounted && (prev || next)"
-      class="page-nav"
-    >
-      <p class="inner">
-        <span
-          v-if="prev"
-          class="prev"
+        <div
+          v-if="contentMounted"
+          class="page-edit"
         >
-          ←
-          <router-link
-            v-if="prev"
-            class="prev"
-            :to="prev.path"
+          <div
+            v-if="editLink"
+            class="edit-link"
           >
-            {{ prev.title || prev.path }}
-          </router-link>
-        </span>
+            <a
+              :href="editLink"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {{ editLinkText }}
+            </a>
+            <OutboundLink />
+          </div>
+
+          <div
+            v-if="lastUpdated"
+            class="last-updated"
+          >
+            <span class="prefix">
+              {{ lastUpdatedText }}:
+            </span>
+            <span class="time">
+              {{ lastUpdated }}
+            </span>
+          </div>
+        </div>
+
+        <div
+          v-if="contentMounted && (prev || next)"
+          class="page-nav"
+        >
+          <p class="inner">
+            <span
+              v-if="prev"
+              class="prev"
+            >
+              ←
+              <router-link
+                v-if="prev"
+                class="prev"
+                :to="prev.path"
+              >
+                {{ prev.title || prev.path }}
+              </router-link>
+            </span>
         
-        <span
-          v-if="next"
-          class="next"
-        >
-          <router-link
-            v-if="next"
-            :to="next.path"
-          >
-            {{ next.title || next.path }}
-          </router-link>→
-        </span>
-      </p>
+            <span
+              v-if="next"
+              class="next"
+            >
+              <router-link
+                v-if="next"
+                :to="next.path"
+              >
+                {{ next.title || next.path }}
+              </router-link>→
+            </span>
+          </p>
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
+import Sidebar from './Sidebar.vue'
 import { resolvePage, normalize, outboundRE, endingSlashRE } from '../util'
 
 export default {
-  props: ['sidebarItems'],
+  components: { Sidebar },
+  props: ['sidebarItems', 'sidebarVisible'],
 
   computed: {
     contentMounted() {
@@ -96,7 +110,6 @@ export default {
     prev() {
       const prev = this.$page.frontmatter.prev
       if (prev === false) {
-        
       } else if (prev) {
         return resolvePage(this.$site.pages, prev, this.$route.path)
       } else {
@@ -107,7 +120,6 @@ export default {
     next() {
       const next = this.$page.frontmatter.next
       if (next === false) {
-        
       } else if (next) {
         return resolvePage(this.$site.pages, next, this.$route.path)
       } else {

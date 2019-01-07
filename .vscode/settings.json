@@ -11,7 +11,6 @@
       "autoFix": true
     }
   ],
-  "eslint.workingDirectories": [
-    "./src/.vuepress"
-  ]
+  "eslint.workingDirectories": ["./src/.vuepress"],
+  "vetur.format.defaultFormatter.html": "none"
 }

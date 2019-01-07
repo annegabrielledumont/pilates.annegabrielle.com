@@ -60,8 +60,16 @@ http://cssmojo.com/the-very-latest-clearfix-reloaded/
   align-items: flex-start;
 }
 
+.flex-stretch {
+  align-items: stretch;
+}
+
 .flex-direction-column {
   flex-direction: column;
+}
+
+.flex-bottom {
+  margin-top: auto;
 }
 
 .flex-full-x {

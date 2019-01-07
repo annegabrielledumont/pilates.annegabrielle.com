@@ -21,6 +21,7 @@
     "eslint-plugin-vue": "^5.1.0",
     "pixrem": "^5.0.0",
     "postcss-button": "^0.3.16",
+    "postcss-color-mod-function": "^3.0.3",
     "postcss-font-family-system-ui": "^4.1.0",
     "postcss-grid-fluid": "^0.3.3",
     "postcss-grid-system": "^0.4.15",

@@ -1,7 +1,7 @@
 <template>
   <nav
     v-if="userLinks.length || repoLink"
-    class="py-s"
+    class="py-m"
   >
     <!-- user links -->
     <div

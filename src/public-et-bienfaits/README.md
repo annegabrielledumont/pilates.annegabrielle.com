@@ -1,18 +1,20 @@
 # Public et bienfaits
 
-#### Le pilates est une discipline accessible à tous, peu importe la condition physique, qui contribue au bien-être dans la vie quotidienne. Les bienfaits sont perçus par un public très varié.
+#### Le pilates est accessible à tous, peu importe la condition physique ! Ses nombreux bienfaits améliorent le bien-être au quotidien.
 
-## Il convient notamment aux
+## Public
 
 - Femme enceinte / post natal
-- Personnes âgées
-- Personnes en surpoids
-- Personnes souhaitant reprendre une activité physique en douceur
+- Personne âgée
+- Personne en surpoids
+- Personne souhaitant reprendre une activité physique
 - Travailleurs en posture statique et personnes sédentaires
+- Sportifs
+- Musiciens
 
-Il permet d’atteindre des objectifs divers : forme, silhouette, tonicité, équilibre, concentration, respiration, détente...
+Il permet d’atteindre des objectifs divers : forme, tonicité, silhouette, équilibre, concentration, détente, amélioration des performances...
 
-Le pilates peut être une activité à part entière ou en complément d'une ou plusieurs autres activités physiques (danse, course à pied, natation,..) ou créatives (musiciens, chanteurs, dessinateurs, peintres...).
+Le pilates peut être une activité à part entière ou en complément d'une autre activité physique (danse, running, natation,..) ou créatives (musiciens, chanteurs, dessinateurs, peintres...).
 
 Chaque cours comprend des échauffements, des étirements, du renforcement musculaire, de la respiration et de la relaxation.
 
@@ -22,16 +24,24 @@ Plusieurs options et adaptations sont proposées pour que chacun puisse travaill
 
 Le pilates est une technique douce de renforcement des muscles profonds. Le corps et l’esprit travaillent ensemble pour effectuer des mouvements contrôlés en coordination avec une respiration spécifique.
 
-Voilà quelques uns des principaux bienfaits de la méthode :
+#### Renforcement musculaire global et équilibré
 
-- **Renforcement musculaire global et équilibré**
-  Le pilates engage le corps entier suivant le principe de travail des chaînes musculaires. Les muscles antagonistes travaillent en synergie afin d'acquérir une musculature équilibrée. Le _Centre_ (abdominaux et les lombaires) est particulièrement sollicité, c’est le socle du corps à partir duquel le corps peut se mouvoir aisément.
-- **Souplesse améliorée**
-  La méthode intègre des exercices d’étirement qui améliorent la souplesse du corps ainsi que la mobilité des articulations.
-- **Meilleure posture**
-  Les positions du quotidien (assis, debout, derrière un ordinateur, à porter un enfant, un sac, etc … entrainent des déséquilibres posturaux, des douleurs, raideurs dans le dos, le cou, les hanches …
-  La méthode pilates permet de réaligner le corps, de le redresser et d’allonger la silhouette.
-- **Respiration et réduction du stress**
-  La respiration pilates est très spécifique. Elle est énergisante et déstressante. Elle permet de se centrer sur le moment présent et sur les exercices effectués. La capacité pulmonaire est décuplée.
-- **Coordination et proprioception stimulées**
-  Le mental est autant sollicité que le physique. Les exercices allient coordination et précision. La pratique augmente la capacité de concentration.
+Le pilates engage le corps entier suivant le principe de travail des chaînes musculaires. Les muscles antagonistes travaillent en synergie afin d'acquérir une musculature équilibrée. Le _Centre_ (abdominaux et les lombaires) est particulièrement tonifié, c’est le socle du corps à partir duquel le corps peut se mouvoir librement.
+
+#### Souplesse
+
+La méthode intègre des étirements, un travail de mobilité des articulations et le relâchement des muscles superficiels sollicités habituellement. Cela permet d'améliorer la souplesse et d'augmenter petit à petit l'amplitude et la fluidité des mouvements.
+
+#### Posture
+
+Les différentes positions du quotidien (assis derrière un ordinateur, piétiner debout, porter un enfant, un sac, regarder son téléphone etc … entrainent des déséquilibres posturaux, des douleurs et raideurs dans le dos, le cou, les hanches … La méthode pilates permet de délier et réaligner le corps en douceur. La silhouette se redresse et s'allonge.
+
+#### Coordination, proprioception et concentration
+
+Les exercices guidés à la voix font travailler la coordination et améliorent la perception du corps dans l'espace. La pratique augmente nécessairement la capacité de concentration.
+
+#### Respiration et réduction du stress
+
+La respiration latérale thoracique du pilates est énergisante et déstressante. Elle permet également de se centrer sur le moment présent et sur les exercices effectués. Au fur et à mesure des séances, la capacité pulmonaire est décuplée.
+
+#### Toute personne qui enclenche les bases du pilates améliore ses fonctionnalités corporelles, mentales et émotionnelles. C'est un véritable gain de confiance en soi dans sa vie de tous les jours !
