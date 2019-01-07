@@ -38,7 +38,7 @@ h1,
 
 h2,
 .h2 {
-  typescale: 4 1.5;
+  typescale: 2 1.5;
 }
 
 h3,
@@ -67,8 +67,7 @@ h5 {
   margin-bottom: var(--unit-xs);
 }
 
-h1,
-h2 {
+h1 {
   font-weight: 200;
 }
 
@@ -116,7 +115,6 @@ a {
   &:active,
   &:focus {
     color: var(--color-brand);
-    text-decoration: underline;
   }
 }
 

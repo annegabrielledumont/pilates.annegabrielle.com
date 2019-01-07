@@ -8,9 +8,9 @@ module.exports = {
     nav: [{ text: 'annegabrielle.com', link: 'https://annegabrielle.com' }],
     sidebar: [
       '/public-et-bienfaits/',
-      '/entreprises/',
       '/mon-approche/',
-      '/horaires-lieux-tarifs/'
+      '/horaires-lieux-tarifs/',
+      '/entreprises/'
     ]
   },
   plugins: [
@@ -21,9 +21,6 @@ module.exports = {
     plugins: [
       require('postcss-normalize'),
       require('postcss-import'),
-      require('postcss-preset-env')({
-        stage: 0
-      }),
       require('postcss-typescale'),
       require('postcss-font-family-system-ui'),
       require('pixrem')({
@@ -32,7 +29,11 @@ module.exports = {
       require('postcss-grid-system'),
       require('postcss-grid-fluid'),
       require('postcss-button'),
-      require('postcss-inline-svg')
+      require('postcss-inline-svg'),
+      require('postcss-color-mod-function'),
+      require('postcss-preset-env')({
+        stage: 0
+      })
     ]
   }
 }

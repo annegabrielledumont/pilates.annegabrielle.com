@@ -9,7 +9,7 @@
           />
           <router-link
             :to="$localePath"
-            class="home-link flex-full-x"
+            class="home-link"
           >
             <img
               v-if="$site.themeConfig.logo"
@@ -20,14 +20,14 @@
             <div
               v-else
               ref="siteName"
-              class="py-s sitename"
+              class="py-m sitename"
             >
               {{ $siteTitle }}
             </div>
           </router-link>
         </div>
 
-        <div class="blob-1-2">
+        <div class="blob-1-2 text-right">
           <SearchBox v-if="$site.themeConfig.search !== false" />
           <NavLinks class="hide desktop-show" />
         </div>

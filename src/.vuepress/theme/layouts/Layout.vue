@@ -1,7 +1,7 @@
 <template>
   <div
     class="layout"
-    :class="pageClasses"
+    :class="layoutClasses"
     @touchstart="onTouchStart"
     @touchend="onTouchEnd"
   >
@@ -12,31 +12,22 @@
 
     <div
       class="sidebar-mask"
-      @click="sidebarToggle(false)" 
+      @click="sidebarToggle(false)"
     />
 
     <main class="main">
-      <div class="container">
-        <div class="blobs">
-          <Sidebar
-            :items="sidebarItems"
-            class="sidebar desktop-blob-1-4"
-            :class="{ hide: !sidebarVisible }"
-            @sidebar-toggle="sidebarToggle"
-          />
+      <Home
+        v-if="$page.frontmatter.home"
+        :sidebar-items="sidebarItems"
+        :sidebar-visible="sidebarVisible"
+      />
 
-          <Home
-            v-if="$page.frontmatter.home"
-            class="blob-1 desktop-blob-3-4"
-          />
-
-          <Page
-            v-else
-            :sidebar-items="sidebarItems"
-            class="page blob-1 desktop-blob-3-4"
-          />
-        </div>
-      </div>
+      <Page
+        v-else
+        :sidebar-items="sidebarItems"
+        :sidebar-visible="sidebarVisible"
+        @sidebar-toggle="sidebarToggle"
+      />
     </main>
 
     <Footer />
@@ -48,12 +39,11 @@ import Vue from 'vue'
 import Home from '../components/Home.vue'
 import Navbar from '../components/Navbar.vue'
 import Page from '../components/Page.vue'
-import Sidebar from '../components/Sidebar.vue'
 import Footer from '../components/Footer.vue'
 import { resolveSidebarItems } from '../util'
 
 export default {
-  components: { Home, Page, Sidebar, Navbar, Footer },
+  components: { Home, Page, Navbar, Footer },
 
   data() {
     return {
@@ -77,7 +67,7 @@ export default {
       )
     },
 
-    shouldShowSidebar() {
+    sidebarShow() {
       const { frontmatter } = this.$page
       return (
         !frontmatter.home &&
@@ -95,13 +85,13 @@ export default {
       )
     },
 
-    pageClasses() {
+    layoutClasses() {
       const userPageClass = this.$page.frontmatter.pageClass
       return [
         {
           'no-navbar': !this.navbarShow,
           'sidebar-open': this.sidebarVisible,
-          'no-sidebar': !this.shouldShowSidebar
+          'no-sidebar': !this.sidebarShow || !!this.$page.frontmatter.home
         },
         userPageClass
       ]

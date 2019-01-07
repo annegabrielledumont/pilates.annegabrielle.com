@@ -15,7 +15,6 @@
     :rel="isMailto(link) || isTel(link) ? null : 'noopener noreferrer'"
   >
     {{ item.text }}
-    <OutboundLink />
   </a>
 </template>
 
@@ -31,7 +30,6 @@ export default {
 
   computed: {
     link() {
-
       return ensureExt(this.item.link)
     },
 
