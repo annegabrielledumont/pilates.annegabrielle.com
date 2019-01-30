@@ -1,28 +1,8 @@
-# Public et bienfaits
+# Bienfaits
 
-#### Le pilates est accessible à tous, peu importe la condition physique ! Ses nombreux bienfaits améliorent le bien-être au quotidien.
+#### Le pilates est une technique douce de renforcement des muscles profonds. Le corps et l’esprit travaillent ensemble pour effectuer des mouvements contrôlés en coordination avec une respiration spécifique.
 
-## Public
-
-- Femme enceinte / post natal
-- Personne âgée
-- Personne en surpoids
-- Personne souhaitant reprendre une activité physique
-- Travailleurs en posture statique et personnes sédentaires
-- Sportifs
-- Musiciens
-
-Il permet d’atteindre des objectifs divers : forme, tonicité, silhouette, équilibre, concentration, détente, amélioration des performances...
-
-Le pilates peut être une activité à part entière ou en complément d'une autre activité physique (danse, running, natation,..) ou créatives (musiciens, chanteurs, dessinateurs, peintres...).
-
-Chaque cours comprend des échauffements, des étirements, du renforcement musculaire, de la respiration et de la relaxation.
-
-Plusieurs options et adaptations sont proposées pour que chacun puisse travailler à son rythme et à son niveau en fonction des ses envies et de ses capacités du moment. Les corrections individuelles permettent un travail efficace et une progression régulière.
-
-## Bienfaits
-
-Le pilates est une technique douce de renforcement des muscles profonds. Le corps et l’esprit travaillent ensemble pour effectuer des mouvements contrôlés en coordination avec une respiration spécifique.
+Une pratique régulière procure de nombreux bienfaits physiques et psychiques.
 
 #### Renforcement musculaire global et équilibré
 
