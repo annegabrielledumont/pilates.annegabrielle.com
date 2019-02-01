@@ -48,16 +48,13 @@
           :key="index"
           class="feature desktop-blob-1-3 flex flex-direction-column"
         >
-          <h2>{{ feature.title }}</h2>
-          <p>{{ feature.details }}</p>
-          <p class="flex-bottom">
-            <router-link
-              :to="feature.link"
-              class="btn-alt p-s full-x text-right"
-            >
-              →
-            </router-link>
-          </p>
+          <router-link
+            :to="feature.link"
+            class="full-x"
+          >
+            <h2>{{ feature.title }}</h2>
+            <p>{{ feature.details }}</p>
+          </router-link>
         </div>
       </div>
       <Content class="custom" />
