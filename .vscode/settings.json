@@ -12,5 +12,8 @@
     }
   ],
   "eslint.workingDirectories": ["./src/.vuepress"],
-  "vetur.format.defaultFormatter.html": "none"
+  "vetur.format.defaultFormatter.html": "none",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#00AA00"
+  }
 }
