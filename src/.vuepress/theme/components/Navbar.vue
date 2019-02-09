@@ -28,7 +28,6 @@
         </div>
 
         <div class="blob-1-2 text-right">
-          <SearchBox v-if="$site.themeConfig.search !== false" />
           <NavLinks class="hide desktop-show" />
         </div>
       </div>
@@ -38,10 +37,9 @@
 
 <script>
 import SidebarButton from './SidebarButton.vue'
-import SearchBox from '@SearchBox'
 import NavLinks from './NavLinks.vue'
 
 export default {
-  components: { SidebarButton, NavLinks, SearchBox }
+  components: { SidebarButton, NavLinks }
 }
 </script>
