@@ -14,10 +14,7 @@ module.exports = {
       '/entreprises/'
     ]
   },
-  plugins: [
-    '@vuepress/plugin-search',
-    require('./plugins/plugin-active-header-links')
-  ],
+  plugins: [require('./plugins/plugin-active-header-links')],
   postcss: {
     plugins: [
       require('postcss-normalize'),
