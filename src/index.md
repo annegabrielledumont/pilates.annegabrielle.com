@@ -5,16 +5,16 @@ actionText: Horaires, lieux et tarifs  →
 actionLink: /horaires-lieux-tarifs/
 features:
   - title: Public
-    details: Accessible à tous. Femmes, hommes, jeunes et moins jeunes, débutant ou sportif, peu importe votre condition physique, la méthode s'adapte à vous et vos besoins.
+    details: "Accessible à tous : femmes, hommes, jeunes et moins jeunes, débutants ou sportifs, peu importe votre condition physique, la méthode s'adapte à vous et vos besoins."
     link: public/
   - title: Bienfaits
-    details: Un travail consciencieux et rigoureux vous apportera de nombreuses satisfactions. Un corps tonique, stable et souple, véritable allié au quotidien ou dans votre pratique sportive, un esprit calme et confiant.
+    details: 'Un travail consciencieux et rigoureux vous apportera de nombreuses satisfactions: un corps tonique, stable et souple, véritable allié au quotidien ou dans votre pratique sportive, un esprit calme et confiant.'
     link: bienfaits/
   - title: Mon approche
-    details: Utiliser les ressources de la méthode pilates (respiration, concentration, centrage, précision) pour vous aider à progresser en toute sécurité et avec bienveillance. Vous encourager dans l'effort pour un résultat gratifiant et motivant. Découvrir en vous-même une nouvelle source de vitalité.
+    details: J'utilise les ressources de la méthode pilates (respiration, concentration, centrage, précision) pour vous aider à progresser en toute sécurité et avec bienveillance, vous encourager dans l'effort pour un résultat gratifiant et motivant. Découvrez en vous une nouvelle source de vitalité.
     link: mon-approche/
+specials:
   - title: Entreprises
-    details: Le pilates accroît le bien-être, soulage les douleurs liées aux postures statiques prolongées, diminue le stress et augmente les capacités de concentration.
+    details: Pour le bien-être de vos collaborateurs, j'organise des cours au sein de votre entreprise. Le pilates soulage les douleurs liées aux postures statiques prolongées, diminue le stress et augmente les capacités de concentration.
     link: entreprises/
-    borders: true
 ---

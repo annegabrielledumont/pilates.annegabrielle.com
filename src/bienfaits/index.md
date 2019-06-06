@@ -1,6 +1,8 @@
 # Bienfaits
 
-![Minion](./test.jpg)
+::: full
+![description de l'image](./test.jpg)
+:::
 
 ### Le pilates est une technique douce de renforcement des muscles profonds. Le corps et l’esprit travaillent ensemble pour effectuer des mouvements contrôlés en coordination avec une respiration spécifique : la respiration latérale thoracique.
 
@@ -8,9 +10,19 @@
 
 ## Renforcement musculaire global et équilibré
 
-Le pilates engage le corps entier suivant le principe de travail des chaînes musculaires. Les muscles antagonistes travaillent en synergie afin d'acquérir une musculature équilibrée. Le _Centre_ (abdominaux et les lombaires) est particulièrement tonifié, c’est le centre d'énergie du corps à partir duquel le corps peut se mouvoir librement.
+::: right
+![description de l'image](./test-3.jpg)
+:::
+
+Le pilates engage le corps entier suivant le principe de travail des chaînes musculaires. Les muscles antagonistes travaillent en synergie afin d'acquérir une musculature équilibrée. 
+
+Le _Centre_ (abdominaux et les lombaires) est particulièrement tonifié, c’est le centre d'énergie du corps à partir duquel le corps peut se mouvoir librement.
 
 ## Souplesse
+
+::: left
+![description de l'image](./test-2.jpg)
+:::
 
 La méthode intègre des étirements, un travail de mobilité des articulations et le relâchement des muscles superficiels sollicités habituellement. Cela permet d'améliorer la souplesse et d'augmenter petit à petit l'amplitude et la fluidité des mouvements.
 

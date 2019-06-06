@@ -125,7 +125,9 @@ https://github.com/francoisromain/postcss-grid-fluid
 
 @media (--viewport-tablet) {
   .container {
-    width: calc(2 * var(--col-width) + var(--gutter));
+    width: calc(
+      2 * var(--col-width) + var(--gutter) + 2 * var(--container-padding)
+    );
   }
 
   .tablet-blobs {
@@ -177,7 +179,9 @@ https://github.com/francoisromain/postcss-grid-fluid
 
 @media (--viewport-desktop) {
   .container {
-    width: calc(3 * var(--col-width) + var(--gutter));
+    width: calc(
+      3 * var(--col-width) + 2 * var(--gutter) + 2 * var(--container-padding)
+    );
   }
 
   .desktop-blobs {
@@ -219,7 +223,9 @@ https://github.com/francoisromain/postcss-grid-fluid
 
 @media (--viewport-large) {
   .container {
-    width: calc(4 * var(--col-width) + var(--gutter));
+    width: calc(
+      4 * var(--col-width) + 3 * var(--gutter) + 2 * var(--container-padding)
+    );
   }
 
   .large-blobs {
