@@ -32,6 +32,7 @@ export default {
         : $site.themeConfig.sidebarDepth
     const maxDepth = configDepth == null ? 1 : configDepth
     const displayAllHeaders = !!$site.themeConfig.displayAllHeaders
+
     if (item.type === 'auto') {
       return [
         link,
