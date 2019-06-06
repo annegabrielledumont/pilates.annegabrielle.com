@@ -101,6 +101,10 @@ blockquote {
   color: var(--color-highlight);
 }
 
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
 hr {
   clear: both;
   border: 0;

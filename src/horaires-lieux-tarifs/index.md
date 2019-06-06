@@ -21,19 +21,6 @@ Inscription sur [le site du cabinet](http://korps.fr).
 
 <Button-link href="sms:321-555-1111?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par SMS</Button-link> <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par email</Button-link>
 
----
-
-### Gingko studio
-
-<p class="h5 bold">adresse à compléter<br>34070 Montpellier</p>
-
-- **jeudi** : 12h30
-- **samedi** : 18h15
-
-###### Tarifs
-
-renseignements sur le [site du studio](https://www.studioyoga-pilates-montpellier.fr/) ou contactez-moi.
-
 ## Cours privés
 
 ### À domicile
@@ -42,9 +29,10 @@ renseignements sur le [site du studio](https://www.studioyoga-pilates-montpellie
 
 ###### Tarifs
 
-- **solo** : 55€
-- **duo** : 30€ / pers
+- **solo** : 55€ / pers.
+- **duo** : 30€ / pers.
 - **cours d'essai** : offert
+- _+ frais de déplacements en dehors de Montpellier_
 
 <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">Contacter par email</Button-link>
 
@@ -62,8 +50,8 @@ Le tarif dépend du nombre d'élèves et de l'organisation.
 
 ## Équipement et conditions
 
-- Certificat médical de non contre-indication à la pratique sportive
 - **Matériel** : tapis de pilates
 - **Tenue** : tenue confortable, chaussettes ou pieds nus
 - **Paiement** : en début de cours en chèque, espèce, virement bancaire, paypal
-- Tout cours non annulé au moins 24h à l’avance sera facturé)
+- Tout cours non annulé au moins 24h à l’avance est facturé
+- Certificat médical de non contre-indication à la pratique sportive
