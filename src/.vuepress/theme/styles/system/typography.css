@@ -77,7 +77,7 @@ h2 {
   font-weight: 300;
   padding-bottom: calc(var(--unit) - var(--border-width));
   border-bottom-width: var(--border-width);
-  border-bottom-style: dotted;
+  border-bottom-style: solid;
   border-bottom-color: var(--border-color);
   margin-bottom: var(--unit);
   color: color-mod(var(--color-highlight) saturation(30%));
@@ -95,10 +95,11 @@ h6 {
 }
 
 blockquote {
-  typescale: 2 1.5;
+  font-weight: 200;
+  typescale: 3.5 2;
   font-style: italic;
   padding: var(--unit-xl);
-  color: var(--color-highlight);
+  color: color-mod(var(--color-highlight) saturation(75%));
 }
 
 blockquote p:last-child {

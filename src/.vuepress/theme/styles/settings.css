@@ -78,12 +78,12 @@ http://francoisromain.github.io/postcss-structure
     box-shadow 0.5s, fill 0.5s;
 
   /* hr */
-  --border-color: var(--color-neutral);
+  --border-color: var(--color-alt);
   --border-width: var(--unit-line);
 }
 
 /* media queries: x * col-width + gutter */
 @custom-media --viewport-mobile (min-width: 22em);
-@custom-media --viewport-tablet (min-width: 42.5em);
-@custom-media --viewport-desktop (min-width: 63em);
-@custom-media --viewport-large (min-width: 83.5em);
+@custom-media --viewport-tablet (min-width: 47.75em);
+@custom-media --viewport-desktop (min-width: 70.5em);
+@custom-media --viewport-large (min-width: 93.25em);
