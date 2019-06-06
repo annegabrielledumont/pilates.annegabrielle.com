@@ -6,7 +6,7 @@
       :class="{ hide: !sidebarVisible }"
     />
 
-    <div class="hero mb">
+    <div class="hero mb-xl">
       <img
         v-if="data.heroImage"
         :src="$withBase(data.heroImage)"

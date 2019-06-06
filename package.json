@@ -10,16 +10,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.0.0-alpha.0",
-    "@vuepress/plugin-search": "^1.0.0-alpha.0",
-    "eslint": "^5.13.0",
-    "eslint-config-prettier": "^4.0.0",
+    "@vuepress/plugin-active-header-links": "^1.0.0-beta.2",
+    "@vuepress/plugin-search": "^1.0.0-beta.2",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
     "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-import": "^2.16.0",
-    "eslint-plugin-node": "^8.0.1",
-    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-standard": "^4.0.0",
-    "eslint-plugin-vue": "^5.1.0",
+    "eslint-plugin-vue": "^5.2.2",
+    "markdown-it-container": "^2.0.0",
     "pixrem": "^5.0.0",
     "postcss-button": "^0.3.16",
     "postcss-color-mod-function": "^3.0.3",
@@ -28,11 +29,11 @@
     "postcss-grid-system": "^0.4.15",
     "postcss-import": "^12.0.1",
     "postcss-inline-svg": "^3.1.1",
-    "postcss-normalize": "^7.0.1",
-    "postcss-preset-env": "^6.5.0",
+    "postcss-normalize": "^8.0.0",
+    "postcss-preset-env": "^6.6.0",
     "postcss-typescale": "^0.2.1",
-    "prettier": "^1.16.4",
-    "vuepress": "^1.0.0-alpha.23"
+    "prettier": "^1.17.1",
+    "vuepress": "^1.0.0-beta.2"
   },
   "eslintConfig": {
     "extends": [
@@ -48,6 +49,5 @@
     "arrowParens": "avoid",
     "proseWrap": "never",
     "bracketSpacing": true
-  },
-  "dependencies": {}
+  }
 }

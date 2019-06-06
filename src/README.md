@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /anne-gabrielle-com-pilates.jpg
+heroImage: /anne-gabrielle-com-pilates-home.jpg
 actionText: Horaires, lieux et tarifs  →
 actionLink: /horaires-lieux-tarifs/
 features:
@@ -16,4 +16,5 @@ features:
   - title: Entreprises
     details: Le pilates accroît le bien-être, soulage les douleurs liées aux postures statiques prolongées, diminue le stress et augmente les capacités de concentration.
     link: entreprises/
+    borders: true
 ---
