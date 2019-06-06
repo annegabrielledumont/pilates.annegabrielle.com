@@ -14,7 +14,33 @@ module.exports = {
       '/entreprises/'
     ]
   },
-  plugins: ['@vuepress/plugin-active-header-links', { headerTopOffset: 120 }],
+  plugins: [
+    ['@vuepress/plugin-active-header-links', { headerTopOffset: 120 }],
+    [
+      'container',
+      {
+        type: 'right',
+        before: '<div class="right">',
+        after: '</div>'
+      }
+    ],
+    [
+      'container',
+      {
+        type: 'left',
+        before: '<div class="left">',
+        after: '</div>'
+      }
+    ],
+    [
+      'container',
+      {
+        type: 'full',
+        before: '<div class="full">',
+        after: '</div>'
+      }
+    ]
+  ],
   postcss: {
     plugins: [
       require('postcss-normalize'),
@@ -33,11 +59,5 @@ module.exports = {
         stage: 0
       })
     ]
-  },
-  markdown: {
-    config: md => {
-      // use more markdown-it plugins!
-      md.use(require('markdown-it-container'))
-    }
   }
 }

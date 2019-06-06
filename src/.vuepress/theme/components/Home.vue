@@ -40,25 +40,53 @@
 
     <div
       v-if="data.features && data.features.length"
-      class="features container"
+      class="container mb-l"
     >
-      <div class="desktop-blobs flex-stretch">
+      <div class="desktop-blobs">
         <div
           v-for="(feature, index) in data.features"
           :key="index"
-          class="feature desktop-blob-1-3 flex flex-direction-column"
+          class="desktop-blob-1-3"
         >
           <router-link
             :to="feature.link"
-            class="full-x"
           >
             <h2>{{ feature.title }}</h2>
             <p>{{ feature.details }}</p>
           </router-link>
         </div>
       </div>
-      <Content class="custom" />
     </div>
+
+    <div
+      v-if="data.specials && data.specials.length"
+      class="container"
+    >
+      <div class="desktop-blobs">
+        <div
+          v-for="(special, index) in data.specials"
+          :key="index"
+          class="desktop-blob-2-3"
+        >
+          <router-link
+            :to="special.link"
+            class="p border bg-neutral block"
+          >
+            <h2 class="flex">
+              {{ special.title }}
+              <i
+                class="icon-32 icon-business flex-right"
+              /> 
+            </h2>
+            <p class="mb-0">
+              {{ special.details }}
+            </p>
+          </router-link>
+        </div>
+      </div>
+    </div>
+
+    <Content class="custom" />
   </div>
 </template>
 

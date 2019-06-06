@@ -2,13 +2,14 @@
   <div class="container">
     <div class="desktop-blobs">
       <Sidebar
-        class="sidebar desktop-blob-1-4"
+        class="sidebar desktop-blob-1-3 large-blob-1-4"
         :items="sidebarItems"
         :class="{ hide: !sidebarVisible }"
       />
       <div 
-        class="page blob-1 desktop-blob-3-4"
+        class="desktop-blob-2-3 large-blob-3-4"
       >
+        <Content slot-key="header" />
         <Content />
 
 

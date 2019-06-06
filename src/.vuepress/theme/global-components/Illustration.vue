@@ -3,9 +3,9 @@ export default {
   functional: true,
 
   props: {
-    href: {
+    src: {
       type: String,
-      default: 'http://example.com'
+      default: './test.jpg'
     }
   },
 
@@ -13,9 +13,9 @@ export default {
     return h(
       'img',
       {
-        class: ['btn-border', 'py-s', 'px', 'mb', 'mr-s'],
+        class: ['py-s', 'px', 'mb', 'bg-alt'],
         attrs: {
-          href: props.href
+          src: props.src
         }
       },
       slots().default
