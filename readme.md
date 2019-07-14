@@ -66,6 +66,8 @@ npm install
 npm run dev
 ```
 
+`ctrl` + `c` pour l'arréter.
+
 ### Production
 
 ```bash
