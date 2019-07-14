@@ -1,9 +1,5 @@
 # pilates.annegabrielle.com
 
-> Site [pilates.annegabrielle.com](https://pilates.annegabrielle.com) avec
-
----
-
 ## Technologies
 
 - [vuepress](https://vuepress.vuejs.org/)
@@ -28,11 +24,13 @@ Pour travailler sur ce projet, il faut :
 
 ### [VS Code](https://code.visualstudio.com/)
 
-Se rendre sur le site de [VS Code](https://code.visualstudio.com/) et télécharger l'application
+Se rendre sur le site de [VS Code](https://code.visualstudio.com/) et télécharger l'application.
 
 ### [Homebrew](https://brew.sh/)
 
-Homebrew est un gestionnaire de paquets pour Mac. Il va permettre d'installer Git et Node.js. Pour installer Homebrew, ouvrir le terminal et entrer:
+Homebrew est un gestionnaire de paquets pour Mac. Il va permettre d'installer Git et Node.js.
+
+Pour installer Homebrew, dans le terminal, saisir :
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)”
@@ -48,10 +46,11 @@ Node.js et npm s’installent avec homebrew: `brew install node`.
 
 ---
 
-## Configuration
+## Usage
 
-- Dans le terminal, se positionnner à l'endroit ou l'on veut stocker le projet (pe: `/Documents`).
-- Cloner ce repo : `git clone https://github.com/annegabrielledumont/pilates.annegabrielle.com.git`
+### Cloner le repo
+
+Dans le terminal, se positionnner à l'endroit ou l'on veut stocker le projet (pe: `/Documents`) puis saisir `git clone https://github.com/annegabrielledumont/pilates.annegabrielle.com.git`.
 
 ### Installation
 
@@ -64,7 +63,6 @@ npm install
 
 ```bash
 # lance un serveur de développement
-# accessible à localhost:8080
 npm run dev
 ```
 
