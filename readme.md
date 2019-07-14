@@ -50,7 +50,16 @@ Node.js et npm s’installent avec homebrew: `brew install node`.
 
 ### Cloner le repo
 
-Dans le terminal, se positionnner à l'endroit ou l'on veut stocker le projet (pe: `/Documents`) puis saisir `git clone https://github.com/annegabrielledumont/pilates.annegabrielle.com.git`.
+Dans le terminal :
+
+- se positionnner à l'endroit ou l'on veut stocker le projet (p.e.: `/Documents`)
+- saisir `git clone https://github.com/annegabrielledumont/pilates.annegabrielle.com.git`
+
+### Ouvrir le projet dans VS Code
+
+Dans le finder, ouvrir le dossier du projet dans VS Code en tirant le dossier `pilates.annegabrielle.com` sur l'icone de VS Code.
+
+Dans VS Code, ouvrir un terminal (menu > terminal > lancer un terminal).
 
 ### Installation
 
