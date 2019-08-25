@@ -2,7 +2,7 @@
 
 ## Cours collectifs
 
-### Korps
+### Lieux : Chez Korps
 
 <p class="h5 bold">55b rue Saint Cléophas<br>34070 Montpellier</p>
 
@@ -16,8 +16,6 @@
 - **forfait 10 cours** : 150€ (valable 4 mois)
 - **cours à l'unité** : 18€
 - **cours d'essai** : 10€
-
-Inscription sur [le site du cabinet](http://korps.fr).
 
 <Button-link href="sms:‭+33601825520?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par SMS</Button-link> <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par email</Button-link>
 
