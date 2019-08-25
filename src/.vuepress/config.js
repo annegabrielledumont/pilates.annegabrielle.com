@@ -12,7 +12,8 @@ module.exports = {
       '/mon-approche/',
       '/horaires-lieux-tarifs/',
       '/entreprises/'
-    ]
+    ],
+    sidebarDepth: 0
   },
   plugins: [
     ['@vuepress/plugin-active-header-links', { headerTopOffset: 120 }],
@@ -20,7 +21,7 @@ module.exports = {
       'container',
       {
         type: 'right',
-        before: '<div class="right">',
+        before: '<div class="img-right">',
         after: '</div>'
       }
     ],
@@ -28,7 +29,7 @@ module.exports = {
       'container',
       {
         type: 'left',
-        before: '<div class="left">',
+        before: '<div class="img-left">',
         after: '</div>'
       }
     ],
@@ -36,7 +37,10 @@ module.exports = {
       'container',
       {
         type: 'full',
-        before: '<div class="full">',
+        before: info =>
+          info
+            ? `<div class="img-full img-full-${info}">`
+            : '<div class="img-full">',
         after: '</div>'
       }
     ]
