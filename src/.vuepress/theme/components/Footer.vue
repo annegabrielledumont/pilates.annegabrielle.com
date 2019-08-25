@@ -1,11 +1,17 @@
 <template>
   <div class="footer">
     <div class="container py">
-      <div class="tablet-blobs">
-        <div class="tablet-blob-1-3">
-          © Anne Gabrielle Dumont - 2019
-        </div>
-      </div>
+      <ul class="list-sans">
+        <li>
+          email : <a href="mailto:hello@annegabrielle.com">hello@annegabrielle.com</a>
+        </li>
+        <li>
+          tél. : <a href="tel:+33601825520">06.01.82.55.20</a>
+        </li>
+      </ul>
+      <p class="h5 mb-0">
+        © Anne Gabrielle Dumont - 2019
+      </p>
     </div>
   </div>
 </template>

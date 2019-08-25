@@ -81,6 +81,13 @@ svg.icon.outbound {
 .hero-img {
   position: absolute;
   top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.hero-img img {
   height: 100%;
   width: 100%;
   object-fit: cover;
@@ -160,6 +167,38 @@ a.bg-neutral:hover {
   background-color: var(--color-highlight);
 }
 
+.content__default .img-full {
+  margin-right: calc(-1 * var(--gutter));
+  margin-left: calc(-1 * var(--gutter));
+  position: relative;
+  margin-bottom: var(--unit);
+}
+
+.content__default .img-full:after {
+  content: '';
+  display: block;
+  padding-bottom: 100%;
+}
+
+.content__default .img-full img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content__default .img-full-left img {
+  object-position: left 50%;
+}
+
+.content__default .img-full-right img {
+  object-position: right 50%;
+}
+
+.content__default .img-full p {
+  margin-bottom: 0;
+}
+
 @media (--viewport-mobile) {
 }
 
@@ -168,14 +207,41 @@ a.bg-neutral:hover {
     width: calc(2 * var(--col-width) + var(--gutter));
   }
 
-  .content__default .right {
-    width: var(--col-width);
+  .img-left {
+    float: left;
+    margin-right: var(--gutter);
+  }
+
+  .img-right {
+    float: right;
     margin-left: var(--gutter);
   }
 
-  .content__default .left {
+  .content__default .img-right {
     width: var(--col-width);
-    margin-right: var(--gutter);
+  }
+
+  .content__default .img-left {
+    width: var(--col-width);
+  }
+
+  .content__default .img-full {
+    margin-right: initial;
+    margin-left: initial;
+    position: initial;
+  }
+
+  .content__default .img-full:after {
+    content: initial;
+    display: initial;
+    padding-bottom: initial;
+  }
+
+  .content__default .img-full img {
+    position: initial;
+    width: initial;
+    height: initial;
+    object-fit: initial;
   }
 }
 
@@ -221,17 +287,17 @@ a.bg-neutral:hover {
     margin-right: calc((var(--col-width) + var(--gutter)) / 2);
   }
 
-  .content__default .right {
+  .content__default .img-right {
     width: calc(var(--col-width) + (var(--col-width) + var(--gutter)) / 2);
     margin-right: calc(-1 * (var(--col-width) + var(--gutter)) / 2);
   }
 
-  .content__default .left {
+  .content__default .img-left {
     width: calc(var(--col-width) + (var(--col-width) + var(--gutter)) / 2);
     margin-left: calc(-1 * (var(--col-width) + var(--gutter)) / 2);
   }
 
-  .content__default .full {
+  .content__default .img-full {
     margin-right: calc(-1 * (var(--col-width) + var(--gutter)) / 2);
     margin-left: calc(-1 * (var(--col-width) + var(--gutter)) / 2);
   }
