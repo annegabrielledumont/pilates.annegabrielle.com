@@ -1,6 +1,8 @@
 ---
 home: true
-heroImage: /anne-gabrielle-com-pilates-home.jpg
+image: /anne-gabrielle-com-pilates-home.jpg
+imageMobile: /anne-gabrielle-com-pilates-home-mobile.jpg
+imageTablet: /anne-gabrielle-com-pilates-home-tablet.jpg
 actionText: Horaires, lieux et tarifs  →
 actionLink: /horaires-lieux-tarifs/
 features:

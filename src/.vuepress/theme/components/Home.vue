@@ -7,12 +7,23 @@
     />
 
     <div class="hero mb-xl">
-      <img
-        v-if="data.heroImage"
-        :src="$withBase(data.heroImage)"
+      <picture 
         alt="hero"
         class="hero-img"
       >
+        <source
+          media="(min-width: 764px)"
+          :srcset="$withBase(data.image)"
+        >
+        <source
+          media="(min-width: 352px)"
+          :srcset="$withBase(data.imageTablet)"
+        >
+        <img
+          v-if="data.image"
+          :src="$withBase(data.imageMobile)"
+        >
+      </picture>
       <div class="overlay-color absolute full" />
 
       <div class="hero-content">
