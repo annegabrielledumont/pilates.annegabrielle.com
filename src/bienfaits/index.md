@@ -14,7 +14,7 @@
 ![description de l'image](./test-3.jpg)
 :::
 
-Le pilates engage le corps entier suivant le principe de travail des chaînes musculaires. Les muscles antagonistes travaillent en synergie afin d'acquérir une musculature équilibrée. 
+Le pilates engage XXX modif XXX le corps entier suivant le principe de travail des chaînes musculaires. Les muscles antagonistes travaillent en synergie afin d'acquérir une musculature équilibrée. 
 
 Le _Centre_ (abdominaux et les lombaires) est particulièrement tonifié, c’est le centre d'énergie du corps à partir duquel le corps peut se mouvoir librement.
 
