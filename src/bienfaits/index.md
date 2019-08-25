@@ -6,7 +6,7 @@
 
 ### Le pilates est une technique douce de renforcement des muscles profonds. Le corps et l’esprit travaillent ensemble pour effectuer des mouvements contrôlés en coordination avec une respiration spécifique : la respiration latérale thoracique.
 
-> Une pratique régulière procure de nombreux bienfaits physiques et psychiques.
+> Une pratique procure de nombreux bienfaits physiques et psychiques.
 
 ## Renforcement musculaire global et équilibré
 
