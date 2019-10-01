@@ -2,22 +2,30 @@
 
 ## Cours collectifs
 
-### Lieux : Chez Korps
+###### Tarifs
+
+- **forfait 10 cours** : 150€ (valable 6 mois)
+- **cours à l'unité** : 18€
+- **cours d'essai** : 10€
+
+<Button-link href="sms:‭+33767820991?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par SMS</Button-link> <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par email</Button-link>
+
+### Korps
 
 <p class="h5 bold">55b rue Saint Cléophas<br>34070 Montpellier</p>
 
 ###### Horaires
 
-- **lundi** : 8h, 13h, 20h
-- **mardi** : 8h, 13h, 20h
+- **lundi** : 8h30, 13h, 20h
+- **mardi** : 8h30, 13h, 20h
 
-###### Tarifs
+### Bowo
 
-- **forfait 10 cours** : 150€ (valable 4 mois)
-- **cours à l'unité** : 18€
-- **cours d'essai** : 10€
+<p class="h5 bold">9 boulevard Victor Hugo<br>34000 Montpellier</p>
 
-<Button-link href="sms:‭+33601825520?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par SMS</Button-link> <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par email</Button-link>
+###### Horaires
+
+- **mercredi** : 8h30
 
 ## Cours privés
 
