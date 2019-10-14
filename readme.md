@@ -61,25 +61,37 @@ Dans le finder, ouvrir le dossier du projet dans VS Code en tirant le dossier `p
 
 Dans VS Code, ouvrir un terminal (menu > terminal > lancer un terminal).
 
-### Installation
+### Installer
 
 ```bash
-# installe les dépendances
+# installe les dépendances et mises à jour
 npm install
 ```
 
-### Développement
+### Développer
 
 ```bash
-# lance un serveur de développement
+# récupère la dernière version sur github
 npm run dev
 ```
 
-`ctrl` + `c` pour l'arréter.
+`ctrl` + `c` pour arrêter
 
-### Production
+### Générer le site
 
 ```bash
-# crée les fichiers de production dans le répertoire dist
+# Construit la version de prod dans le dossier /docs
 npm run build
+```
+
+### Pousser sur Github
+
+```bash
+# met à jour la version locale
+git pull --rebase origin master
+
+# commit des modifications en cours
+
+# pousse sur GitHub
+git push origin master
 ```
