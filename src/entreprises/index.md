@@ -1,3 +1,7 @@
+::: full
+![description de l'image](../images/anne-gabrielle-com-pilates-05.jpg)
+:::
+
 # Entreprises
 
 ### Le pilates soulage les douleurs liées aux mauvaises postures, diminue le stress, augmente les capacités de concentration et globalement améliore le bien-être.

@@ -1,3 +1,7 @@
+::: full
+![description de l'image](../images/anne-gabrielle-com-pilates-03.jpg)
+:::
+
 # Public
 
 ### Le pilates est accessible à tous, hommes, femmes, adolescents, adultes, personnes âgées. Il est possible de commencer à tout âge, peu importe sa condition physique !

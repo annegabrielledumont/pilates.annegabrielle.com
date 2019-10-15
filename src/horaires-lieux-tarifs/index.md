@@ -1,3 +1,7 @@
+::: full
+![description de l'image](../images/anne-gabrielle-com-pilates-01.jpg)
+:::
+
 # Horaires, lieux et tarifs
 
 ## Cours collectifs

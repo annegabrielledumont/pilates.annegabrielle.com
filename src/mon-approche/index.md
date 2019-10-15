@@ -1,3 +1,7 @@
+::: full
+![description de l'image](../images/anne-gabrielle-com-pilates-02.jpg)
+:::
+
 # Mon approche
 
 ### Je m'appuie sur les bases fondamentales de la méthode pilates.
