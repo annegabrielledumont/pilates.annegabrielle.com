@@ -95,3 +95,8 @@ git pull --rebase origin master
 # pousse sur GitHub
 git push origin master
 ```
+*** 
+
+### Modifier le menu
+
+Dans le fichier `src/.vuepress/config.js`, `themeConfig/sidebar`.

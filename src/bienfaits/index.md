@@ -1,7 +1,7 @@
 # Bienfaits
 
-::: full
-![description de l'image](./test.jpg)
+::: full right
+![description de l'image](../images/anne-gabrielle-com-pilates-01.jpg)
 :::
 
 ### Le pilates est une technique douce de renforcement des muscles profonds. Le corps et l’esprit travaillent ensemble pour effectuer des mouvements contrôlés en coordination avec une respiration spécifique : la respiration latérale thoracique.
