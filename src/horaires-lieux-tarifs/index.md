@@ -8,13 +8,13 @@
 
 ###### Tarifs
 
-- **forfait 10 cours** : 150€ (valable 6 mois)
+- **forfait 10 cours** : 150€ 
 - **cours à l'unité** : 18€
 - **cours d'essai** : 10€
 
 <Button-link href="sms:‭+33767820991?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par SMS</Button-link> <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par email</Button-link>
 
-### Korps
+### Korps, pole santé pluridisciplinaire
 
 <p class="h5 bold">55b rue Saint Cléophas<br>34070 Montpellier</p>
 
@@ -23,7 +23,7 @@
 - **lundi** : 8h30, 13h, 20h
 - **mardi** : 8h30, 13h, 20h
 
-### Bowo
+### Bowo, studio de danse
 
 <p class="h5 bold">9 boulevard Victor Hugo<br>34000 Montpellier</p>
 
@@ -33,15 +33,16 @@
 
 ## Cours privés
 
-### À domicile
+### À domicile ou sur votre lieu de travail
 
 <p class="h5 bold">Dans Montpellier et ses environs</p>
 
 ###### Tarifs
 
-- **solo** : 55€ / pers.
-- **duo** : 30€ / pers.
-- **cours d'essai** : offert
+- **1 personne** : 55€ 
+- **2 personnes** : 30€/pers.
+- **3 personnes** : 25€/pers.
+- **4 personnes et +** : 20€/pers.
 - _+ frais de déplacements en dehors de Montpellier_
 
 <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">Contacter par email</Button-link>
