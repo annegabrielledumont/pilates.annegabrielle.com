@@ -1,6 +1,6 @@
 # Bienfaits
 
-::: full right
+::: full
 ![description de l'image](../images/anne-gabrielle-com-pilates-01.jpg)
 :::
 
