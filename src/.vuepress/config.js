@@ -7,11 +7,12 @@ module.exports = {
     search: false,
     nav: [{ text: 'annegabrielle.com', link: 'https://annegabrielle.com' }],
     sidebar: [
-      '/horaires-lieux-tarifs/',
-      '/public/',
-      '/bienfaits/',
-      '/mon-approche/',
-      '/entreprises/'
+      ['/horaires-lieux-tarifs/', 'horaires-lieux-tarifs'],
+      ['/public/', 'public'],
+      ['/bienfaits/', 'bienfaits'],
+      ['/mon-approche/', 'mon-approche'],
+      ['/entreprises/', 'entreprises'],
+      ['/ateliers/', 'ateliers']
     ],
     sidebarDepth: 0
   },
