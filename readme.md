@@ -87,10 +87,10 @@ npm run build
 ### Pousser sur Github
 
 ```bash
+# commit des modifications en cours
+
 # met à jour la version locale
 git pull --rebase origin master
-
-# commit des modifications en cours
 
 # pousse sur GitHub
 git push origin master
