@@ -6,9 +6,6 @@ imageTablet: /anne-gabrielle-com-pilates-home-tablet.jpg
 actionText: Horaires, lieux et tarifs  →
 actionLink: /horaires-lieux-tarifs/
 features:
-::: full
-![description de l'image](../images/anne-gabrielle-com-pilates-01.jpg)
-:::
   - title: Public
     details: "Accessible à tous : femmes, hommes, jeunes et moins jeunes, débutants ou sportifs, peu importe votre condition physique, la méthode s'adapte à vous et vos besoins."
     link: public/
