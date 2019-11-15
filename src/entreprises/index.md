@@ -2,19 +2,42 @@
 ![description de l'image](../images/anne-gabrielle-com-pilates-03.jpg)
 :::
 
-# Entreprises
+# Pilates en entreprises
 
-### Le pilates soulage les douleurs liées aux mauvaises postures, diminue le stress, augmente les capacités de concentration et globalement améliore le bien-être.
+### Tonifiante et déstressante, la pratique du pilates est facile à organiser sur le lieu de travail.
 
-Organiser des cours de pilates sur le lieu de travail facilite la participation des collaborateurs et les encourage à prendre soin d'eux. Le bien-être en général et au travail contribue à augmenter l'implication et la motivation des personnes dans leur mission et à diminuer le taux d'absentéisme.
+=> Cela demande peu d’équipement : une tenue confortable, un tapis et n’importe quelle salle dans laquelle les meubles peuvent être déplacés le temps de la séance.
 
-Les séances d’une heure peuvent avoir lieu :
+=> Les séances peuvent avoir lieu pendant la pause déjeuner, en début ou en fin de journée avant ou après les heures de travail.
 
-- Pendant la pause déjeuner, en début ou en fin de journée avant ou après les heures de travail.
-- Dans une salle dédiée ou dans une salle de réunion ou un bureau aménagé pour l’occasion.
+=> Les bénéfices de la méthode, tant au niveau physique que mental, améliorent la qualité de vie au travail en favorisant l’équilibre personnel et la cohésion des collaborateurs.   
 
-Le nombre de participants dépend de l'espace mis à disposition.
+=> Elle convient à tout le monde, homme, femme, de tout âge et peu importe la condition physique. Les exercices sont adaptés aux contraintes individuelles pour que chacun progresse à son rythme. 
 
-Le niveau des cours est adapté en fonction des participants.
+=> Le nombre de participants dépend de l'espace mis à disposition.
 
-<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite prendre un cours de pilate en entreprise.">Contacter par email</Button-link>
+Ici pas de compétition mais de la précision et de la concentration pour mieux connaitre et dépasser ses propres limites ! Résultat : bien-être, énergie positive et motivation qui profite à tout le monde.
+
+
+Plusieurs formats sont possibles :
+-	des cours hebdomadaires d’une durée de 1h
+
+ou
+-	des modules de 2h permettant une approche par thèmes. 
+Pratique plus approfondie et incluant notamment, en plus de la pratique physique, des notions d’anatomie permettant de mieux comprendre les mouvements, la logique de l’enchainement des exercices, le lien entre le pilates et les mouvements du quotidien ou d’autres pratiques sportives.
+
+Le 1er module comprend les ateliers suivants :
+- La base de la méthode : **la respiration** spécifique « latérale thoracique ».
+- **Le centre du corps**, centre d’énergie d’où part le mouvement.
+- **Le dos**, territoire si souvent méconnu
+
+Le 2eme module comprends les ateliers suivants (sous réserve d'avoir effectué le 1er module) :
+- **Les jambes** autrement (quand je m’allonge et que mes jambes respirent...)
+- **Les bras** : des mains aux épaules en passant par les poignées, il n’y en a pas que pour les biscottos !
+- **L’équilibre** et la prévention des chutes 
+
+_D'autres modules peuvent être proposés ou développés en fonction des besoins spécifiques des collaborateurs._
+
+Ces formats d’ateliers sont conçus pour être interactifs. Ils permettent aux participants de mieux comprendre l’intérêt des mouvements proposés et ce en quoi ils diffèrent des mouvements automatiques. L’apport d’explications techniques et le temps pris pour explorer et ressentir le mouvement permettent d’améliorer la perception du corps. Le mental et le corps travaillent ensemble pour intégrer de nouvelles commandes et améliorer durablement la posture et la condition physique.
+
+<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite organiser un cours de pilate en entreprise.">Demander un devis</Button-link>
