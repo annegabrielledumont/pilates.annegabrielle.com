@@ -31,7 +31,7 @@ Le 1er module comprend les ateliers suivants :
 - **Le centre du corps**, centre d’énergie d’où part le mouvement.
 - **Le dos**, territoire si souvent méconnu
 
-Le 2eme module comprends les ateliers suivants (sous réserve d'avoir effectué le 1er module) :
+Le 2eme module comprend les ateliers suivants (sous réserve d'avoir effectué le 1er module) :
 - **Les jambes** autrement (quand je m’allonge et que mes jambes respirent...)
 - **Les bras** : des mains aux épaules en passant par les poignées, il n’y en a pas que pour les biscottos !
 - **L’équilibre** et la prévention des chutes 
