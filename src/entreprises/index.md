@@ -1,12 +1,12 @@
 ::: full
-![description de l'image](../images/anne-gabrielle-com-pilates-05.jpg)
+![description de l'image](../images/anne-gabrielle-com-pilates-03.jpg)
 :::
 
 # Entreprises
 
 ### Le pilates soulage les douleurs liées aux mauvaises postures, diminue le stress, augmente les capacités de concentration et globalement améliore le bien-être.
 
-Organiser des cours de pilates dans l'entreprise favorise la participation des collaborateurs et les encourage à prendre soin d'eux. Cela contribue à augmenter la motivation.
+Organiser des cours de pilates sur le lieu de travail facilite la participation des collaborateurs et les encourage à prendre soin d'eux. Le bien-être en général et au travail contribue à augmenter l'implication et la motivation des personnes dans leur mission et à diminuer le taux d'absentéisme.
 
 Les séances d’une heure peuvent avoir lieu :
 

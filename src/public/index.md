@@ -1,27 +1,29 @@
 ::: full
-![description de l'image](../images/anne-gabrielle-com-pilates-03.jpg)
+![description de l'image](../images/anne-gabrielle-com-pilates-05.jpg)
 :::
 
 # Public
 
-### Le pilates est accessible à tous, hommes, femmes, adolescents, adultes, personnes âgées. Il est possible de commencer à tout âge, peu importe sa condition physique !
+### Le pilates est accessible à tous, hommes, femmes, adultes, personnes âgées,adolescents... Il est possible de commencer à tout âge, peu importe sa condition physique !
 
-> La précision dans l'exécution des mouvements garantit un travail en toute sécurité et permet de modifier des habitudes corporelles.
+La méthode pilates repose sur 6 principes : la ###concentration, le ###centrage, la respiration, le contrôle, la précision et la fluidité.
 
-Chaque cours comprend des échauffements, des étirements, du renforcement musculaire, de la respiration et de la relaxation.
+> C'est la garantie d'un travail intense en toute sécurité qui permet de modifier des habitudes corporelles (posture et mouvement).
 
-Plusieurs options et adaptations sont proposées pour que chacun puisse travailler à son rythme et à son niveau en fonction des ses envies et de ses capacités du moment. Les corrections individuelles permettent un travail efficace et une progression régulière.
+Chaque cours comprend des échauffements, du renforcement musculaire, des étirements, un travail de respiration et de la relaxation.
 
-**Il est particulièrement adapté à :**
+Tous les execrices peuvent être adaptés, parfois à l'aide de petit matériel,afin que chacun puisse travailler à son rythme et à son niveau en fonction des ses envies et de ses capacités du moment. Les corrections individuelles permettent un travail efficace et une progression régulière.
+
+**Le pilates est une technique d'entretien efficace, promue par de nombreuses célébrités et prisée par un public actif et  dynamique. Il est cependant particulièrement adapté aux publics spécifiques tels que:**
 
 - Femme enceinte / post natal
 - Personne âgée
 - Personne en surpoids
 - Personne souhaitant reprendre une activité physique
-- Travailleurs en posture statique et personnes sédentaires
-- Sportifs
-- Musiciens
+- Travailleur en posture statique (assis ou debout), personnes sédentaires
+- Sportifs en quête d'amélioration de leur performance
+- Musiciens, chanteurs, acteurs
 
-**Il permet d’atteindre des objectifs divers** : forme, tonicité, silhouette, équilibre, concentration, détente, amélioration des performances...
+**Il permet d’atteindre des objectifs divers** : bonne forme physique, tonicité, silhouette affinée, meilleur équilibre, prévention des chutes,entretien des articulations, amplitude et fluidité du mouvement, capacité de concentration, coordination, détente, performances sportives...
 
-Le pilates peut être une activité à part entière ou en complément d'une autre activité physique (danse, running, natation…) ou créatives (musiciens, chanteurs, dessinateurs, peintres…).
+Le pilates peut être une activité à part entière ou être pratiqué en complément d'une autre activité physique (danse, running, natation…) ou créative (musicien, chanteur, comédien, dessinateur…).
