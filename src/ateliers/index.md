@@ -2,21 +2,22 @@
 ![description de l'image](../images/anne-gabrielle-com-pilates-06.jpg)
 :::
 
-# Ateliers 
+# Ateliers ponctuels
 
-### Ateliers mensuels récurrents à Paris
+J’aime proposer des temps de pratique plus longs que le traditionnel cours d’une heure.
 
-Organiser des cours de pilates dans l'entreprise favorise la participation des collaborateurs et les encourage à prendre soin d'eux. Cela contribue à augmenter la motivation.
+J’y vois plusieurs intérêts :
+-	prendre du temps pour comprendre le fonctionnement du corps, 
+-	permettre à des personnes qui ne pratiquent pas de manière hebdomadaire d’effectuer un travail précis et intense qui infuse dans la tête et le corps comme le souvenir et avec les effets d’un voyage à l’intérieur de soi
+-	proposer des ateliers sur des thèmes spécifiques pour des publics spécifiques (ateliers pour femmes enceintes, ateliers prévention des chutes pour les personnes âgées, atelier organisé pour un enterrement de vie de jeune fille...), 
+-	faire interagir le pilates avec d’autres pratiques que j’affectionne (pilates et yoga, pilates et méditation, pilates et randonnée, pilates et alimentation...)
+-	proposer des ateliers ailleurs que dans mon port d’attache !
 
-Les séances d’une heure peuvent avoir lieu :
+### Mes prochains ateliers 
 
-- Pendant la pause déjeuner, en début ou en fin de journée avant ou après les heures de travail.
-- Dans une salle dédiée ou dans une salle de réunion ou un bureau aménagé pour l’occasion.
+Pour qui ? Tout le monde ! Que vous ayez déjà pratiqué le pilates ou non, quelque soit votre niveau.
+Pourquoi ? Tonifier ses abdominaux profonds, chouchouter son plancher pelvien, délier sa colonne vertébrale... Pour se sentir mieux, se sentir bien !
 
-Le nombre de participants dépend de l'espace mis à disposition.
+<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite prendre un cours de pilate en entreprise.">Réserver par email</Button-link>
 
-Le niveau des cours est adapté en fonction des participants.
-
-<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite prendre un cours de pilate en entreprise.">Contacter par email</Button-link>
-
-### Ateliers ponctuels
+### Mes ateliers précédents

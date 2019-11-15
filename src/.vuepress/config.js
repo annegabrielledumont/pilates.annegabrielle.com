@@ -10,9 +10,9 @@ module.exports = {
       ['/horaires-lieux-tarifs/', 'horaires-lieux-tarifs'],
       ['/public/', 'public'],
       ['/bienfaits/', 'bienfaits'],
-      ['/mon-approche/', 'mon-approche'],
-      ['/entreprises/', 'entreprises'],
-      ['/ateliers/', 'ateliers']
+      ['/mon-approche/', 'mon approche'],
+      ['/entreprises/', 'pilates en entreprises'],
+      ['/ateliers/', 'ateliers ponctuels']
     ],
     sidebarDepth: 0
   },
