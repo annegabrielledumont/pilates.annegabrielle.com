@@ -11,7 +11,7 @@ module.exports = {
       ['/public/', 'public'],
       ['/bienfaits/', 'bienfaits'],
       ['/mon-approche/', 'mon approche'],
-      ['/entreprises/', 'pilates en entreprises'],
+      ['/entreprises/', 'pilates en entreprise'],
       ['/ateliers/', 'ateliers ponctuels']
     ],
     sidebarDepth: 0

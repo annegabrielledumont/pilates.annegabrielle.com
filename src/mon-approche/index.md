@@ -4,7 +4,7 @@
 
 # Mon approche
 
-### Je suis arrivée au pilates par le biais de la danse classique avec ce plaisir du travail minutieux, cette recherche de l'ancrage pour trouver la puissance et la liberté de mouvement. Je fais le choix de rester sur les bases fondamentales de la méthode pilates tout en mettant les exercices (principalement au sol) en perspective des mouvements effectués dans notre vie quotidienne.
+### Je suis arrivée au pilates par le biais de la danse classique avec ce plaisir du travail minutieux, cette recherche d'ancrage pour trouver la puissance et la liberté de mouvement. Je fais le choix de rester sur les bases fondamentales de la méthode tout en mettant les exercices en perspective des mouvements effectués dans notre vie quotidienne.
 
 ## Le respect de chaque personne avec ses particularités
 

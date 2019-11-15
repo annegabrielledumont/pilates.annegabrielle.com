@@ -53,7 +53,7 @@
 
 <p class="h5 bold">Dans Montpellier et ses environs</p>
 
-Mis en place par le CE ou directement par les salariés.
+Mis en place par le CE ou directement par les collaborateurs.
 
 Le tarif dépend du nombre d'élèves et de l'organisation.
 
