@@ -8,7 +8,7 @@
 
 La méthode pilates repose sur 6 principes : la concentration, le centrage, la respiration, le contrôle, la précision et la fluidité.
 
-> C'est la garantie d'un travail intense en toute sécurité qui permet de modifier des habitudes corporelles (posture et mouvement).
+> C'est la garantie d'un travail intense en toute sécurité qui permet de modifier certaines habitudes (posture et mouvement) pour un mieux être au quotidien.
 
 Chaque cours comprend des échauffements, du renforcement musculaire, des étirements, un travail de respiration et de la relaxation.
 

@@ -12,7 +12,7 @@ module.exports = {
       ['/bienfaits/', 'bienfaits'],
       ['/mon-approche/', 'mon approche'],
       ['/entreprises/', 'pilates en entreprise'],
-      ['/ateliers/', 'ateliers ponctuels']
+      ['/ateliers/', 'ateliers']
     ],
     sidebarDepth: 0
   },

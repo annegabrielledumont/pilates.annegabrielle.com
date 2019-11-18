@@ -4,12 +4,12 @@
 
 # Ateliers ponctuels
 
-J’aime proposer des temps de pratique plus longs que le traditionnel cours d’une heure.
+J’aime proposer des temps de pratique plus longs que le classique cours d’une heure.
 
 J’y vois plusieurs intérêts :
 -	prendre du temps pour comprendre le fonctionnement du corps, 
--	permettre à des personnes qui ne pratiquent pas de manière hebdomadaire d’effectuer un travail précis et intense qui infuse dans la tête et le corps comme le souvenir et avec les effets d’un voyage à l’intérieur de soi
--	proposer des ateliers sur des thèmes spécifiques pour des publics spécifiques (ateliers pour femmes enceintes, ateliers prévention des chutes pour les personnes âgées, atelier organisé pour un enterrement de vie de jeune fille...), 
+-	permettre à des personnes qui ne pratiquent pas de manière hebdomadaire d’effectuer un travail précis et intense qui infuse dans la tête et le corps et produit les effets d’un merveilleux voyage à l’intérieur de soi
+-	proposer des ateliers sur des thèmes spécifiques pour des publics spécifiques (ateliers pour femmes enceintes, ateliers prévention des chutes pour les personnes âgées, atelier organisé pour un enterrement de vie de jeune fille...),
 -	faire interagir le pilates avec d’autres pratiques que j’affectionne (pilates et yoga, pilates et méditation, pilates et randonnée, pilates et alimentation...)
 -	proposer des ateliers ailleurs que dans mon port d’attache !
 

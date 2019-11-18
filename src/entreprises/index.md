@@ -29,10 +29,10 @@ Pratique plus approfondie et incluant notamment, en plus de la pratique physique
 Le 1er module comprend les ateliers suivants :
 - La base de la méthode : **la respiration** spécifique « latérale thoracique ».
 - **Le centre du corps**, centre d’énergie d’où part le mouvement.
-- **Le dos**, territoire si souvent méconnu
+- **Le dos**, apprendre à connaitre cette face cachée de nous-même
 
 Le 2eme module comprend les ateliers suivants (sous réserve d'avoir effectué le 1er module) :
-- **Les jambes** autrement (quand je m’allonge et que mes jambes respirent...)
+- **Les jambes** autrement ; quand je m’allonge et que mes jambes respirent...
 - **Les bras** : des mains aux épaules en passant par les poignées, il n’y en a pas que pour les biscottos !
 - **L’équilibre** et la prévention des chutes 
 
