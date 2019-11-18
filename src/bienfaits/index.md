@@ -10,7 +10,7 @@
 
 ## Renforcement musculaire global et équilibré
 
-Dans chaque exercice, le corps entier est sollicité. Au fur et à mesure des séances, le schéma corporel devient plus clair, ce qui permet de sortir de certains automatismes et de travailler avec des muscles jusquelà inconnus ou peu sollicités. Il en résulte un développement de la musculature harmonieux, la diminution de tensions et des douleurs associées.
+Dans chaque exercice, le corps entier est sollicité. Au fur et à mesure des séances, le schéma corporel devient plus clair, ce qui permet de sortir de certains automatismes et de travailler avec des muscles dont on ignorait jusque là l'existence. Il en résulte un développement de la musculature harmonieux, la diminution de tensions et des douleurs associées.
 
 Le _Centre_ (abdominaux et les lombaires) est particulièrement tonifié, c’est le centre d'énergie à partir duquel le corps peut se mouvoir librement. Le renforcement de la sangle abdominale affine la taille et soulage les maux de dos.
 
