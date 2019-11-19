@@ -43,6 +43,7 @@
 - **2 personnes** : 30€/pers.
 - **3 personnes** : 25€/pers.
 - **4 personnes et +** : 20€/pers.
+- cours d'essai : 10€/pers.
 - _+ frais de déplacements en dehors de Montpellier_
 
 <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">Contacter par email</Button-link>
