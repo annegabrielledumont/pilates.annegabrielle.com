@@ -12,13 +12,12 @@ module.exports = {
     nav: [{ text: 'annegabrielle.com', link: 'https://annegabrielle.com' }],
     sidebar: [
       ['/horaires-lieux-tarifs/', 'horaires,lieux et tarifs'],
-      ['/ateliers/', 'ateliers']
+      ['/ateliers/', 'ateliers'],
       ['/entreprises/', 'pilates en entreprise'],
       ['/public/', 'public'],
       ['/bienfaits/', 'bienfaits'],
-      ['/mon-approche/', 'mon approche'],
-      ],
-      
+      ['/mon-approche/', 'mon approche']
+    ],
     sidebarDepth: 0
   },
   plugins: [
