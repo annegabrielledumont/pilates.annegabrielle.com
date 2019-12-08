@@ -7,13 +7,14 @@ module.exports = {
     search: false,
     nav: [{ text: 'annegabrielle.com', link: 'https://annegabrielle.com' }],
     sidebar: [
-      ['/horaires-lieux-tarifs/', 'horaires-lieux-tarifs'],
+      ['/horaires-lieux-tarifs/', 'horaires,lieux et tarifs'],
+      ['/ateliers/', 'ateliers']
+      ['/entreprises/', 'pilates en entreprise'],
       ['/public/', 'public'],
       ['/bienfaits/', 'bienfaits'],
       ['/mon-approche/', 'mon approche'],
-      ['/entreprises/', 'pilates en entreprise'],
-      ['/ateliers/', 'ateliers']
-    ],
+      ],
+      
     sidebarDepth: 0
   },
   plugins: [
