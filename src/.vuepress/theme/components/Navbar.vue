@@ -4,7 +4,7 @@
       <div class="blobs">
         <div class="blob-1 desktop-blob-1-2 flex">
           <SidebarButton
-            class="desktop-hide mr"
+            class="desktop-hide"
             @sidebar-toggle="$emit('sidebar-toggle')"
           />
           <router-link
@@ -20,7 +20,7 @@
             <div
               v-else
               ref="siteName"
-              class="py-m sitename"
+              class="py-m sitename mr--"
             >
               {{ $siteTitle }}
             </div>

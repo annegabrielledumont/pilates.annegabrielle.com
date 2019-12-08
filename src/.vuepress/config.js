@@ -11,12 +11,12 @@ module.exports = {
     search: false,
     nav: [{ text: 'annegabrielle.com', link: 'https://annegabrielle.com' }],
     sidebar: [
-      ['/horaires-lieux-tarifs/', 'horaires,lieux et tarifs'],
-      ['/ateliers/', 'ateliers'],
-      ['/entreprises/', 'pilates en entreprise'],
-      ['/public/', 'public'],
-      ['/bienfaits/', 'bienfaits'],
-      ['/mon-approche/', 'mon approche']
+      ['/horaires-lieux-tarifs/', 'Horaires, lieux et tarifs'],
+      ['/ateliers/', 'Ateliers'],
+      ['/entreprises/', 'Pilates en entreprise'],
+      ['/public/', 'Public'],
+      ['/bienfaits/', 'Bienfaits'],
+      ['/mon-approche/', 'Mon approche']
     ],
     sidebarDepth: 0
   },
