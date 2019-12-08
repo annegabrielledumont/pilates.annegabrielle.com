@@ -4,15 +4,13 @@
 
 # Horaires, lieux et tarifs
 
-## Cours collectifs
+## Cours collectifs du lundi au mercredi
 
 ###### Tarifs
 
 - **forfait 10 cours** : 150€ 
 - **cours à l'unité** : 18€
 - **cours d'essai** : 10€
-
-<Button-link href="sms:‭+33767820991?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par SMS</Button-link> <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par email</Button-link>
 
 ### Korps, pole santé pluridisciplinaire
 
@@ -31,6 +29,8 @@
 
 - **mercredi** : 8h30
 
+<Button-link href="sms:‭+33767820991?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par SMS</Button-link> <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par email</Button-link>
+
 ## Cours privés
 
 ### À domicile ou sur votre lieu de travail
@@ -43,8 +43,9 @@
 - **2 personnes** : 30€/pers.
 - **3 personnes** : 25€/pers.
 - **4 personnes et +** : 20€/pers.
-- cours d'essai : 10€/pers.
 - _+ frais de déplacements en dehors de Montpellier_
+
+Cours d'essai : 10€/pers.
 
 <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">Contacter par email</Button-link>
 
