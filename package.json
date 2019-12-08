@@ -10,16 +10,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.2.0",
     "@vuepress/plugin-search": "^1.2.0",
-    "eslint": "^6.5.1",
-    "eslint-config-prettier": "^6.4.0",
+    "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.7.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "eslint-plugin-vue": "^5.2.3",
+    "eslint-plugin-vue": "^6.0.1",
     "pixrem": "^5.0.0",
     "postcss-button": "^0.3.17",
     "postcss-color-mod-function": "^3.0.3",
@@ -31,9 +30,9 @@
     "postcss-normalize": "^8.0.1",
     "postcss-preset-env": "^6.7.0",
     "postcss-typescale": "^0.2.3",
-    "prettier": "^1.18.2",
+    "prettier": "^1.19.1",
     "vuepress": "^1.2.0",
-    "vuepress-plugin-container": "^2.1.0"
+    "vuepress-plugin-container": "^2.1.2"
   },
   "eslintConfig": {
     "extends": [
@@ -47,7 +46,6 @@
     "semi": false,
     "singleQuote": true,
     "arrowParens": "avoid",
-    "proseWrap": "never",
     "bracketSpacing": true
   }
 }
