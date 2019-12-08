@@ -40,17 +40,17 @@ h6 {
 
 h1,
 .h1 {
-  typescale: 5 2;
+  typescale: 4 2;
 }
 
 h2,
 .h2 {
-  typescale: 3 1.5;
+  typescale: 2.5 1.5;
 }
 
 h3,
 .h3 {
-  typescale: 1 1.25;
+  typescale: 0.5 1;
 }
 
 h4,
@@ -96,9 +96,8 @@ h6 {
 
 blockquote {
   font-weight: 200;
-  typescale: 3.5 2;
+  typescale: 2.5 1.5;
   font-style: italic;
-  padding: var(--unit-xl);
   color: color-mod(var(--color-highlight) saturation(75%));
 }
 

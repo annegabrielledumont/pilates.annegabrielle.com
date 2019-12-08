@@ -6,7 +6,7 @@
           email : <a href="mailto:hello@annegabrielle.com">hello@annegabrielle.com</a>
         </li>
         <li>
-          tél. : <a href="tel:+33601825520">06.01.82.55.20</a>
+          tél. : <a href="tel:+330767820991">07.67.82.09.91</a>
         </li>
       </ul>
       <p class="h5 mb-0">

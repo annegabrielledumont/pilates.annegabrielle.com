@@ -12,6 +12,7 @@ svg.icon.outbound {
 }
 
 .sitename {
+  typescale: -1.5 1;
   font-weight: 700;
 }
 
@@ -200,9 +201,31 @@ a.bg-neutral:hover {
 }
 
 @media (--viewport-mobile) {
+  .sitename {
+    typescale: 0 1;
+  }
 }
 
 @media (--viewport-tablet) {
+  h1,
+  .h1 {
+    typescale: 5 2;
+  }
+
+  h2,
+  .h2 {
+    typescale: 3 1.5;
+  }
+
+  h3,
+  .h3 {
+    typescale: 1 1.25;
+  }
+
+  blockquote {
+    padding: var(--unit-xl);
+  }
+
   .sidebar-content {
     width: calc(2 * var(--col-width) + var(--gutter));
   }
