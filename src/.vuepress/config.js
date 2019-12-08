@@ -1,3 +1,7 @@
+// vuepress config
+
+var postcss = require('../../postcss.config')
+
 module.exports = {
   title: 'Cours de pilates à Montpellier',
   description: 'par Anne Gabrielle Dumont',
@@ -18,7 +22,6 @@ module.exports = {
     sidebarDepth: 0
   },
   plugins: [
-    ['@vuepress/plugin-active-header-links', { headerTopOffset: 120 }],
     [
       'container',
       {
@@ -47,23 +50,5 @@ module.exports = {
       }
     ]
   ],
-  postcss: {
-    plugins: [
-      require('postcss-normalize'),
-      require('postcss-import'),
-      require('postcss-typescale'),
-      require('postcss-font-family-system-ui'),
-      require('pixrem')({
-        html: false
-      }),
-      require('postcss-grid-system'),
-      require('postcss-grid-fluid'),
-      require('postcss-button'),
-      require('postcss-inline-svg'),
-      require('postcss-color-mod-function'),
-      require('postcss-preset-env')({
-        stage: 0
-      })
-    ]
-  }
+  postcss
 }
