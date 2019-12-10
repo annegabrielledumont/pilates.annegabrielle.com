@@ -100,3 +100,15 @@ git push origin master
 ### Modifier le menu
 
 Dans le fichier `src/.vuepress/config.js`, `themeConfig/sidebar`.
+
+***
+
+### Largeur des images de la homepage
+
+- mobile : 352px
+- tablette : 764px
+- desktop : 1492px
+
+Les images se trouvent dans le dossier `/src/.vuepress/public`.
+Les images sont appelées depuis le fichier `/src/index.md`.
+
