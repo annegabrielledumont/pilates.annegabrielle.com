@@ -16,11 +16,9 @@
 }
 
 .btn-border {
-  button-border: var(--unit-line) var(--color-alt) var(--color-neutral)
-    var(--color-highlight);
-  button-color: var(--color-highlight) var(--color-bg) var(--color-bg);
-  button-background: var(--color-transparent) var(--color-neutral)
-    var(--color-highlight);
+  button-color: var(--color-bg) var(--color-bg) var(--color-bg);
+  button-background: var(--color-highlight) var(--color-inverse)
+    var(--color-inverse);
   button-class: active disabled;
 }
 
