@@ -21,4 +21,4 @@ Pourquoi ? Tonifier ses abdominaux profonds, chouchouter son plancher pelvien, d
 
 <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite prendre un cours de pilate en entreprise.">Réserver par email</Button-link>
 
-### Mes ateliers précédents
+### Mes ateliers précédents (en cours)
