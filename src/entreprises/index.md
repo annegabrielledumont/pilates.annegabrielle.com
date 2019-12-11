@@ -16,31 +16,38 @@
 
 → Le nombre de participants dépend de l'espace mis à disposition.
 
-Ici pas de compétition mais de la précision et de la concentration pour mieux connaître et dépasser ses propres limites ! Résultat : bien-être, énergie positive et motivation qui profite à tout le monde.
+**Pas de compétition mais de la précision et de la concentration pour mieux connaître et dépasser ses propres limites ! Résultat : bien-être, énergie positive et motivation qui profite à tout le monde.**
 
-Plusieurs formats sont possibles :
+<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite organiser un cours de pilate en entreprise.">Demander un devis</Button-link>
 
-- des cours hebdomadaires d’une durée de 1h
+---
 
-ou
+### Cours hebdomadaires
 
-- des modules de 2h permettant une approche par thèmes.
-  Pratique plus approfondie et incluant notamment, en plus de la pratique physique, des notions d’anatomie permettant de mieux comprendre les mouvements, la logique de l’enchaînement des exercices, le lien entre le pilates et les mouvements du quotidien ou d’autres pratiques sportives.
+##### Durée: 1h
 
-Le 1er module comprend les ateliers suivants :
+### Modules thématiques
+
+##### Durée: 2h
+
+Pratique approfondie, incluant notamment, en plus de la pratique physique, des notions d’anatomie permettant de mieux comprendre les mouvements, la logique de l’enchaînement des exercices, le lien entre le pilates et les mouvements du quotidien ou d’autres pratiques sportives.
+
+Ces formats d’ateliers sont conçus pour être interactifs. Ils permettent aux participants de mieux comprendre l’intérêt des mouvements proposés et ce en quoi ils diffèrent des mouvements automatiques. L’apport d’explications techniques et le temps pris pour explorer et ressentir le mouvement permettent d’améliorer la perception du corps. Le mental et le corps travaillent ensemble pour intégrer de nouvelles commandes et améliorer durablement la posture et la condition physique.
+
+#### 1er module
 
 - La base de la méthode : **la respiration** spécifique « latérale thoracique ».
 - **Le centre du corps**, centre d’énergie d’où part le mouvement.
 - **Le dos**, apprendre à connaître cette face cachée de nous-même
 
-Le 2eme module comprend les ateliers suivants (sous réserve d'avoir effectué le 1er module) :
+#### 2eme module
+
+_sous réserve d'avoir effectué le 1er module_
 
 - **Les jambes** autrement ; quand je m’allonge et que mes jambes respirent...
 - **Les bras** : des mains aux épaules en passant par les poignées, il n’y en a pas que pour les biscottos !
 - **L’équilibre** et la prévention des chutes
 
-_D’autres modules peuvent être proposés ou développés en fonction des besoins spécifiques des collaborateurs._
+#### Autres modules
 
-Ces formats d’ateliers sont conçus pour être interactifs. Ils permettent aux participants de mieux comprendre l’intérêt des mouvements proposés et ce en quoi ils diffèrent des mouvements automatiques. L’apport d’explications techniques et le temps pris pour explorer et ressentir le mouvement permettent d’améliorer la perception du corps. Le mental et le corps travaillent ensemble pour intégrer de nouvelles commandes et améliorer durablement la posture et la condition physique.
-
-<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite organiser un cours de pilate en entreprise.">Demander un devis</Button-link>
+_En fonction des besoins spécifiques des collaborateurs_
