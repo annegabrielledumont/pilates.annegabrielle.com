@@ -5,6 +5,8 @@ imageMobile: /anne-gabrielle-com-pilates-home-mobile.jpg
 imageTablet: /anne-gabrielle-com-pilates-home-tablet.jpg
 actionText: Horaires, lieux et tarifs  →
 actionLink: /horaires-lieux-tarifs/
+heroText: 'Améliorez vos fonctionnalités corporelles, mentales et émotionnelles.'
+tagline: 'avec Anne Gabrielle Dumont'
 features:
   - title: Public
     details: "Accessible à tous : femmes, hommes, jeunes et moins jeunes, débutants ou sportifs, peu importe votre condition physique, la méthode s'adapte à vous et vos besoins."
