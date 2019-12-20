@@ -2,7 +2,7 @@
 ![description de l'image](../images/anne-gabrielle-com-pilates-03.jpg)
 :::
 
-# Pilates en entreprises
+# Pilates en entreprise
 
 ### Tonifiante et déstressante, la pratique du pilates est facile à organiser sur le lieu de travail.
 
@@ -26,28 +26,28 @@
 
 ##### Durée: 1h
 
-### Modules thématiques
+### Cycles thématiques comprenant 3 ateliers
 
-##### Durée: 2h
+##### Durée: 2h par atelier
 
 Pratique approfondie, incluant notamment, en plus de la pratique physique, des notions d’anatomie permettant de mieux comprendre les mouvements, la logique de l’enchaînement des exercices, le lien entre le pilates et les mouvements du quotidien ou d’autres pratiques sportives.
 
 Ces formats d’ateliers sont conçus pour être interactifs. Ils permettent aux participants de mieux comprendre l’intérêt des mouvements proposés et ce en quoi ils diffèrent des mouvements automatiques. L’apport d’explications techniques et le temps pris pour explorer et ressentir le mouvement permettent d’améliorer la perception du corps. Le mental et le corps travaillent ensemble pour intégrer de nouvelles commandes et améliorer durablement la posture et la condition physique.
 
-#### 1er module
+#### 1er cycle
 
-- La base de la méthode : **la respiration** spécifique « latérale thoracique ».
-- **Le centre du corps**, centre d’énergie d’où part le mouvement.
-- **Le dos**, apprendre à connaître cette face cachée de nous-même
+- Atelier 1 : La base de la méthode : **la respiration** spécifique « latérale thoracique ».
+- Atelier 2 : **Le centre du corps**, centre d’énergie d’où part le mouvement.
+- Atelier 3 : **Le dos**, apprendre à connaître cette face cachée de nous-même
 
-#### 2eme module
+#### 2eme cycle
 
-_sous réserve d'avoir effectué le 1er module_
+_sous réserve d'avoir effectué le 1er cycle_
 
-- **Les jambes** autrement ; quand je m’allonge et que mes jambes respirent...
-- **Les bras** : des mains aux épaules en passant par les poignées, il n’y en a pas que pour les biscottos !
-- **L’équilibre** et la prévention des chutes
+- Atelier 4 : **Les jambes** autrement ; quand je m’allonge et que mes jambes respirent...
+- Atelier 5 : **Les bras** : des mains aux épaules en passant par les poignées, il n’y en a pas que pour les biscottos !
+- Ateliers 6 : **L’équilibre** et la prévention des chutes
 
-#### Autres modules
+#### Autres cycles
 
 _En fonction des besoins spécifiques des collaborateurs_
