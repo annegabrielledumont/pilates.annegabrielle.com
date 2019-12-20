@@ -14,7 +14,7 @@
 
 ### Korps, pole santé pluridisciplinaire
 
-<p class="h5 bold">55b rue Saint Cléophas<br>34070 Montpellier</p>
+##### [📍55b rue Saint Cléophas, 34070 Montpellier](https://goo.gl/maps/hgePCNi5F2J1dAo36)
 
 ###### Horaires
 
@@ -23,7 +23,7 @@
 
 ### Bowo, studio de danse
 
-<p class="h5 bold">9 boulevard Victor Hugo<br>34000 Montpellier</p>
+##### [📍9 boulevard Victor Hugo, 34000 Montpellier](https://goo.gl/maps/LPrVcFc9YBrNDUX39)
 
 ###### Horaires
 
