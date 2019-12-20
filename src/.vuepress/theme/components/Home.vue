@@ -50,11 +50,11 @@
     </div>
 
     <div
-      v-if="data.features && data.features.length"
       class="container mb-l"
     >
       <div class="desktop-blobs">
         <div
+          v-if="data.features && data.features.length"
           v-for="(feature, index) in data.features"
           :key="index"
           class="desktop-blob-1-3"
@@ -66,15 +66,8 @@
             <p>{{ feature.details }}</p>
           </router-link>
         </div>
-      </div>
-    </div>
-
-    <div
-      v-if="data.specials && data.specials.length"
-      class="container"
-    >
-      <div class="desktop-blobs">
         <div
+          v-if="data.specials && data.specials.length"
           v-for="(special, index) in data.specials"
           :key="index"
           class="desktop-blob-2-3"
