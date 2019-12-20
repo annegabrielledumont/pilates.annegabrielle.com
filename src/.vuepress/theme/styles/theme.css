@@ -97,7 +97,7 @@ svg.icon.outbound {
 .hero-content {
   position: absolute;
   right: 0;
-  bottom: 20vh;
+  bottom: 5vh;
   left: 0;
   color: var(--color-bg);
 }
@@ -297,6 +297,10 @@ a.bg-neutral:hover {
     padding-right: initial;
     margin-left: initial;
     margin-right: initial;
+  }
+
+  .hero-content {
+    bottom: 15vh;
   }
 
   .hero-content h1 {
