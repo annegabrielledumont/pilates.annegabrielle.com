@@ -71,7 +71,7 @@ npm install
 ### Développer
 
 ```bash
-# récupère la dernière version sur github
+# lance la version de développement
 npm run dev
 ```
 
@@ -89,7 +89,7 @@ npm run build
 ```bash
 # commit des modifications en cours
 
-# met à jour la version locale
+# récupère la dernière version sur github
 git pull --rebase origin master
 
 # pousse sur GitHub
