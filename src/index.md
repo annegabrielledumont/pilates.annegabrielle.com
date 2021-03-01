@@ -3,8 +3,8 @@ home: true
 image: /anne-gabrielle-com-pilates-home.jpg
 imageMobile: /anne-gabrielle-com-pilates-home-mobile.jpg
 imageTablet: /anne-gabrielle-com-pilates-home-tablet.jpg
-actionText: Horaires, lieux et tarifs  →
-actionLink: /horaires-lieux-tarifs/
+actionText: Cours en ligne  →
+actionLink: /cours-en-ligne/
 heroText: 'Améliorez vos fonctionnalités corporelles, mentales et émotionnelles.'
 tagline: 'avec Anne Gabrielle Dumont'
 features:

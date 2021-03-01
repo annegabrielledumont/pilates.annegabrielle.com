@@ -11,6 +11,7 @@ module.exports = {
     search: false,
     nav: [{ text: 'annegabrielle.com', link: 'https://annegabrielle.com' }],
     sidebar: [
+      ['/cours-en-ligne/', 'Cours en ligne'],
       ['/horaires-lieux-tarifs/', 'Horaires, lieux et tarifs'],
       ['/ateliers/', 'Ateliers'],
       ['/entreprises/', 'Pilates en entreprise'],
@@ -49,5 +50,8 @@ module.exports = {
       }
     ]
   ],
+  extendMarkdown: md => {
+    md.use(require('markdown-it-attrs'))
+  },
   postcss
 }
