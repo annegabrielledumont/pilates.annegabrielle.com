@@ -1,5 +1,5 @@
 ::: full
-![description de l'image](../images/anne-gabrielle-com-pilates-02.jpg)
+![pilates-matwork-conscience-du-corps-respiration-centrage-pratique-physique-respectueuse-du-corps-annegabrielledumont-savoeurs](../images/anne-gabrielle-com-pilates-02.jpg)
 :::
 
 # Mon approche

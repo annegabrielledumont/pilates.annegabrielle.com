@@ -1,5 +1,5 @@
 ::: full
-![description de l'image](../images/anne-gabrielle-com-pilates-06.jpg)
+![pilates-ateliers-matwork-petit-materiel-annegabrielledumont-savoeurs](../images/anne-gabrielle-com-pilates-08.jpg)
 :::
 
 # Ateliers ponctuels
@@ -19,6 +19,6 @@ J’y vois plusieurs intérêts :
 Pour qui ? Tout le monde ! Que vous ayez déjà pratiqué le pilates ou non, quelque soit votre niveau.
 Pourquoi ? Tonifier ses abdominaux profonds, chouchouter son plancher pelvien, délier sa colonne vertébrale... Pour se sentir mieux, se sentir bien !
 
-<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite prendre un cours de pilate en entreprise.">Réserver par email</Button-link>
+<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite recevoir les informations sur les prochains ateliers en ligne ou en présentiel.">M'informer des prochaines dates</Button-link>
 
-### Mes ateliers précédents (en cours)
+### Les ateliers précédents (en cours)

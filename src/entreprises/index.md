@@ -1,5 +1,5 @@
 ::: full
-![description de l'image](../images/anne-gabrielle-com-pilates-03.jpg)
+![pilates-sport-en-entrepise-qualite-de-vie-au-travail-teambuilding-teamspirit-annegabrielledumont-savoeurs](../images/anne-gabrielle-com-pilates-03.jpg)
 :::
 
 # Pilates en entreprise

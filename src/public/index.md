@@ -1,5 +1,5 @@
 ::: full
-![description de l'image](../images/anne-gabrielle-com-pilates-05.jpg)
+![pilates-a-tout-age-pilates-pour-tous-annegabrielledumont-savoeurs](../images/anne-gabrielle-com-pilates-05.jpg)
 :::
 
 # Public

@@ -1,5 +1,5 @@
 ::: full
-![description de l'image](../images/anne-gabrielle-com-pilates-01.jpg)
+![pilates-montpellier-sante-bien-être-prendre-soin-de-soi-annegabrielledumont-savoeurs](../images/anne-gabrielle-com-pilates-01.jpg)
 :::
 
 # Horaires, lieux et tarifs

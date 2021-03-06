@@ -1,5 +1,5 @@
 ::: full
-![description de l'image](../images/anne-gabrielle-com-pilates-04.jpg)
+![pilates-sante-posture-contrology-bien-etre-annegabrielledumont-savoeurs](../images/anne-gabrielle-com-pilates-04.jpg)
 :::
 
 # Bienfaits
