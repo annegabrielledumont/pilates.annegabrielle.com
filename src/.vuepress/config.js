@@ -3,7 +3,7 @@
 var postcss = require('../../postcss.config')
 
 module.exports = {
-  title: 'Cours de pilates à Montpellier',
+  title: 'Cours de pilates - Anne Gabrielle Dumont',
   description: 'par Anne Gabrielle Dumont',
   dest: 'docs',
   themeConfig: {
