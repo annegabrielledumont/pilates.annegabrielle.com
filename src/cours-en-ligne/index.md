@@ -6,15 +6,15 @@
 
 > En ce moment plus que jamais, il est nécessaire de maintenir un lien avec son corps.
 
-**Planning de la semaine du 8 mars 2021**
+**Planning de la semaine du 29 mars 2021**
 
 - mardi 8h-9h
-- mardi 19h30-20h30
-- mercredi 12h-12h45 **45min**
-- mercredi 12h45-13h30 **Stretching 45min**
+- mardi 19h-20h
+- mercredi 12h-13h 
+- mercredi 13h00-13h30 **Stretching 30min**
 - mercredi 18h30-19h30
 
-Inscription ici => [doodle](https://doodle.com/poll/6vwmfdpxttvabvws?utm_source=poll&utm_medium=link)  
+Inscription ici => [doodle](https://doodle.com/poll/wv9r2xd32ehxxd5e?utm_source=poll&utm_medium=link)  
 
 Les cours en ligne vous permettent de continuer ou de commencer la pratique du pilates de chez vous ou de n'importe quel autre lieu.
 
@@ -22,9 +22,9 @@ Les cours en ligne vous permettent de continuer ou de commencer la pratique du p
 
 - les cours ont lieu en direct
 - nombre de participants maximum : 8 personnes
-- tarif : 10€/cours
+- tarif : 10€/cours de pilates et 7€/30 min de stretching
 - le niveaux est adapté aux personnes présentes
-- l'utilisation de la caméra permet d'interagir; les personnes peuvent poser des questions, je corrige chaque personne
+- l'utilisation de la caméra permet d'interagir; les personnes peuvent poser des questions pendant le cours, je regarde et ajuste chaque personne
 
 ## Inscription aux cours 
 
