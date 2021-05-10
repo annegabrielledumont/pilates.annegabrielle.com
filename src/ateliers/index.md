@@ -19,6 +19,28 @@ J’y vois plusieurs intérêts :
 Pour qui ? Tout le monde ! Que vous ayez déjà pratiqué le pilates ou non, quelque soit votre niveau.
 Pourquoi ? Tonifier ses abdominaux profonds, chouchouter son plancher pelvien, délier sa colonne vertébrale... Pour se sentir mieux, se sentir bien !
 
-<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite recevoir les informations sur les prochains ateliers en ligne ou en présentiel.">M'informer des prochaines dates</Button-link>
+<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite recevoir les informations sur les prochains ateliers en ligne ou en présentiel.">Connaître les prochaines dates…</Button-link>
 
-### Les ateliers précédents (en cours)
+### Les ateliers précédents
+
+<div class="tablet-blobs">
+  <div class="tablet-blob-1-2 mb">
+    <h4>Ateliers mensuels 2019</h4>
+    <img src="./anne-gabrielle-com-pilates-atelier-mars-2019.jpg" alt="atelier pilates paris">
+  </div>
+  <div class="tablet-blob-1-2 mb">
+    <h4>Atelier du 19 juin 2019</h4>
+    <img src="./anne-gabrielle-com-pilates-atelier-2019-06.jpg" alt="texte à changer">
+  </div>
+</div>
+
+<div class="tablet-blobs">
+  <div class="tablet-blob-1-2 mb">
+    <h4>Atelier du 19 juin 2019</h4>
+    <img src="./anne-gabrielle-com-pilates-atelier-2019-06.jpg" alt="texte à changer">
+  </div>
+  <div class="tablet-blob-1-2 mb">
+    <h4>Atelier du 19 juin 2019</h4>
+    <img src="./anne-gabrielle-com-pilates-atelier-2019-06.jpg" alt="texte à changer">
+  </div>
+</div>

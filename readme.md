@@ -1,4 +1,4 @@
-# pilates.annegabrielle.com
+# pilates.savoeurs.com
 
 ## Technologies
 
@@ -96,6 +96,12 @@ git pull --rebase origin master
 git push origin master
 ```
 *** 
+
+## Configuration
+
+### Changer le titre
+
+Dans le fichier `src/.vuepress/config.js`, `title`.
 
 ### Modifier le menu
 

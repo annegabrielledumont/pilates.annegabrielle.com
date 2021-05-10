@@ -1,3 +1,6 @@
+En raison de la crise sanitaire, les cours collectifs en salle sont suspendus. Pour maintenir ou commencer la pratique du pilates, <a href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci" class="color-bg underline">contactez moi</a> pour organiser des cours en ligne ou des cours privés.
+{.p .bg-highlight .color-bg .bold .h-full}
+
 ::: full
 ![pilates-sport-en-entrepise-qualite-de-vie-au-travail-teambuilding-teamspirit-annegabrielledumont-savoeurs](../images/anne-gabrielle-com-pilates-03.jpg)
 :::

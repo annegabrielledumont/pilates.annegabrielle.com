@@ -2,15 +2,15 @@
 ![pilates-sante-posture-contrology-bien-etre-annegabrielledumont-savoeurs](../images/anne-gabrielle-com-pilates-04.jpg)
 :::
 
-# Bienfaits
+# Bienfaits du pilates
 
-### Le pilates est une technique douce de renforcement des muscles profonds. Le corps et l’esprit travaillent ensemble pour effectuer des mouvements précis en conscience basé sur une respiration spécifique : la respiration latérale thoracique.
+### Le pilates est une technique douce de renforcement des muscles profonds. Le corps et l’esprit travaillent ensemble pour effectuer des mouvements précis en conscience basés sur une respiration spécifique : la respiration latérale thoracique.
 
 > La pratique du pilates procure de nombreux bienfaits physiques et psychiques.
 
 ## Renforcement musculaire global et équilibré
 
-Dans chaque exercice, le corps entier est sollicité. Au fur et à mesure des séances, le schéma corporel devient plus clair, ce qui permet de sortir de certains automatismes et de travailler avec des muscles dont on ignorait jusque là l'existence. Il en résulte un développement de la musculature harmonieux, la diminution de tensions et des douleurs associées.
+Dans chaque exercice, le corps entier est sollicité. Au fur et à mesure des séances, le schéma corporel devient plus clair, ce qui permet de sortir de certains automatismes et de travailler avec des muscles dont on ignorait jusque là l'existence. Il en résulte un développement de la musculature harmonieux, la diminution des tensions et des douleurs chroniques.
 
 Le _Centre_ (abdominaux et les lombaires) est particulièrement tonifié, c’est le centre d'énergie à partir duquel le corps peut se mouvoir librement. Le renforcement de la sangle abdominale affine la taille et soulage les maux de dos.
 

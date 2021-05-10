@@ -3,13 +3,13 @@
 var postcss = require('../../postcss.config')
 
 module.exports = {
-  title: 'Cours de pilates - Anne Gabrielle Dumont',
+  title: 'Cours de pilates',
   description: 'par Anne Gabrielle Dumont',
   dest: 'docs',
   themeConfig: {
     home: true,
     search: false,
-    nav: [{ text: 'annegabrielle.com', link: 'https://annegabrielle.com' }],
+    logo: '/savoeurs-logo.svg',
     sidebar: [
       ['/cours-en-ligne/', 'Cours en ligne'],
       ['/horaires-lieux-tarifs/', 'Horaires, lieux et tarifs'],
@@ -19,7 +19,8 @@ module.exports = {
       ['/bienfaits/', 'Bienfaits'],
       ['/mon-approche/', 'Mon approche']
     ],
-    sidebarDepth: 0
+    sidebarDepth: 0,
+    externalLink: {url:'https://annegabrielle.com', logo: '/savoeurs-logo-white.svg', text:'savoeurs.com'}
   },
   plugins: [
     [

@@ -9,10 +9,11 @@
   </router-link>
   <a
     v-else
-    :href="link"
-    class="nav-link external"
+    :href="link"s
+    class="nav-link"
   >
-    {{ item.text }}
+  <img :src="item.image" alt="item.text" v-if="item.image">
+  <span v-else>{{ item.text }}</span>
   </a>
 </template>
 

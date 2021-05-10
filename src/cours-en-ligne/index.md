@@ -6,7 +6,7 @@
 
 > En ce moment plus que jamais, il est nécessaire de maintenir un lien avec son corps.
 
-**Planning de la semaine du 29 mars 2021**
+**Planning de la semaine du 10 mai 2021**
 
 - mardi 8h-9h
 - mardi 19h-20h
@@ -14,14 +14,15 @@
 - mercredi 13h00-13h30 **Stretching 30min**
 - mercredi 18h30-19h30
 
-Inscription ici => [doodle](https://doodle.com/poll/wv9r2xd32ehxxd5e?utm_source=poll&utm_medium=link)  
+<Button-link href="https://doodle.com/poll/3u82tbt55b5kznnf">S'incrire au cours en ligne…</Button-link>
+
 
 Les cours en ligne vous permettent de continuer ou de commencer la pratique du pilates de chez vous ou de n'importe quel autre lieu.
 
 ## Le fonctionnement des cours 
 
 - les cours ont lieu en direct
-- nombre de participants maximum : 8 personnes
+- nombre de participants maximum : 10 personnes
 - tarif : 10€/cours de pilates et 7€/30 min de stretching
 - le niveaux est adapté aux personnes présentes
 - l'utilisation de la caméra permet d'interagir; les personnes peuvent poser des questions pendant le cours, je regarde et ajuste chaque personne
@@ -47,11 +48,11 @@ Toute séance annulée dans les 24h précédant le cours est due
 - **Intimité** : seul(e), confortablement installé(e), vous pouvez véritablement vous détendre et laisser votre corps s’exprimer
 
 
-## Les cours vidéo
+## Les cours en vidéo
 
 Pour ceux qui ne peuvent pas suivre les cours en ligne pour des raisons techniques ou d'organisation. 
 Vous pouvez pratiquer en toute sécurité, autant de fois que vous le voulez pendant 7 jours.
 
 Une nouvelle vidéo est disponible chaque semaine.
 Tarif : 10€/vidéo
-Pour y avoir accès, contacter-moi par email [envoyez-moi un mail](mailto:pilates@anne-gabrielle.com) et effectuer le paiement correspondant par virement bancaire ou [paypal] (https://www.paypal.com/paypalme/agdumont).
+Pour y avoir accès, contacter-moi par email [envoyez-moi un mail](mailto:pilates@anne-gabrielle.com) et effectuer le paiement correspondant par virement bancaire ou [Paypal](https://www.paypal.com/paypalme/agdumont).

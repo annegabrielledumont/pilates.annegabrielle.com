@@ -1,3 +1,6 @@
+En raison de la crise sanitaire, les cours collectifs en salle sont suspendus. Pour maintenir ou commencer la pratique du pilates, <a href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite organiser un cours en ligne" class="color-bg underline">contactez moi</a> pour organiser des cours en ligne ou des cours privés.
+{.p .bg-highlight .color-bg .bold .h-full}
+
 ::: full
 ![pilates-montpellier-sante-bien-être-prendre-soin-de-soi-annegabrielledumont-savoeurs](../images/anne-gabrielle-com-pilates-01.jpg)
 :::
@@ -21,15 +24,7 @@
 - **lundi** : 8h30, 13h, 20h
 - **mardi** : 8h30, 13h, 20h
 
-### Bowo, studio de danse
-
-##### [📍9 boulevard Victor Hugo, 34000 Montpellier](https://goo.gl/maps/LPrVcFc9YBrNDUX39)
-
-###### Horaires
-
-- **mercredi** : 8h30
-
-<Button-link href="sms:‭+33767820991?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par SMS</Button-link> <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par email</Button-link>
+<Button-link href="sms:‭+33767820991?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par SMS…</Button-link> <Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">S'inscrire par email…</Button-link>
 
 ## Cours privés
 
@@ -45,19 +40,8 @@
 - **4 personnes et +** : 20€/pers.
 - _+ frais de déplacements en dehors de Montpellier_
 
-<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">Contacter par email</Button-link>
+<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite reserver pour le cours de pilates jour: , heure: . Merci">Contacter par email…</Button-link>
 
----
-
-### En entreprise
-
-<p class="h5 bold">Dans Montpellier et ses environs</p>
-
-Mis en place par le CE ou directement par les collaborateurs.
-
-Le tarif dépend du nombre d'élèves et de l'organisation.
-
-<Button-link href="mailto:pilates@anne-gabrielle.com?&body=Bonjour, je souhaite prendre un cours de pilate en entreprise.">Contacter par email</Button-link>
 
 ## Équipement et conditions
 

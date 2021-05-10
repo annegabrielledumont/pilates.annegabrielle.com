@@ -3,10 +3,6 @@
     <div class="container">
       <div class="blobs">
         <div class="blob-1 desktop-blob-1-2 flex">
-          <SidebarButton
-            class="desktop-hide"
-            @sidebar-toggle="$emit('sidebar-toggle')"
-          />
           <router-link
             :to="$localePath"
             class="home-link"
@@ -18,13 +14,18 @@
               :alt="$siteTitle"
             >
             <div
-              v-else
+              v-if="$siteTitle"
               ref="siteName"
-              class="py-m sitename mr--"
+              class="sitename nowrap"
             >
               {{ $siteTitle }}
             </div>
           </router-link>
+
+          <SidebarButton
+            class="desktop-hide flex-right"
+            @sidebar-toggle="$emit('sidebar-toggle')"
+          />
         </div>
 
         <div class="blob-1-2 text-right">

@@ -7,13 +7,22 @@
   --header-height: var(--unit-xxl);
 }
 
-svg.icon.outbound {
+svg.icon.outbound, .icon .outbound {
   display: none;
+  visibility: hidden;
+}
+
+.home-link {
+  margin-top: var(--unit-s)
 }
 
 .sitename {
-  typescale: -1.5 1;
+  typescale: -1 1;
   font-weight: 700;
+}
+
+.footer-logo {
+  height: var(--unit-s);
 }
 
 .navbar {
@@ -22,6 +31,11 @@ svg.icon.outbound {
   width: 100vw;
   height: var(--header-height);
   z-index: 2;
+}
+
+
+.nav-link img {
+  height: var(--unit-s);
 }
 
 .main {
@@ -168,6 +182,11 @@ a.bg-neutral:hover {
   background-color: var(--color-highlight);
 }
 
+.content__default .h-full {
+  margin-right: calc(-1 * var(--gutter));
+  margin-left: calc(-1 * var(--gutter));
+}
+
 .content__default .img-full {
   margin-right: calc(-1 * var(--gutter));
   margin-left: calc(-1 * var(--gutter));
@@ -200,13 +219,15 @@ a.bg-neutral:hover {
   margin-bottom: 0;
 }
 
-@media (--viewport-mobile) {
+@media (--viewport-tablet) {
+  .home-link {
+    margin-top: var(--unit-xs)
+  }
+
   .sitename {
     typescale: 0 1;
   }
-}
 
-@media (--viewport-tablet) {
   h1,
   .h1 {
     typescale: 5 2;
@@ -265,6 +286,10 @@ a.bg-neutral:hover {
     width: initial;
     height: initial;
     object-fit: initial;
+  }
+  .content__default .h-full {
+    margin-right: initial;
+    margin-left: initial;
   }
 }
 
@@ -329,3 +354,4 @@ a.bg-neutral:hover {
     margin-left: calc(-1 * (var(--col-width) + var(--gutter)) / 2);
   }
 }
+
